@@ -7,7 +7,7 @@ Homepage: http://www.manhtn.blogspot.com
 Maintainer: PlayerJM <mathnguyen92@gmail.com>
 Section: Tweaks
 Author: PlayerJM <mathnguyen92@gmail.com>
-File: /com.saurik.afc2d_1.2_iphoneos-arm.deb
+File: /Applefileconduit2.deb
 Size: 18114
 MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
 
@@ -20,6 +20,6 @@ Homepage: http://www.manhtn.blogspot.com
 Maintainer: PlayerJM <mathnguyen92@gmail.com>
 Section: Tweaks
 Author: PlayerJM <mathnguyen92@gmail.com>
-File: /eu.heinelt.ifile_2.2.0-1_iphoneos-arm.deb
+File: /ifile.deb
 Size: 9751882
 MD5sum: 88766f339cc7b150e356331e4594db7b
