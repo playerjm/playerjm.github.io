@@ -1,6 +1,6 @@
-Package: com.playerjm.didongviet.applefilecoduit
+Package: com.playerjm.applefileconduit2
 Name: Apple File Conduit 2
-Version: 1.0
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: PlayerJM IPA for Iphone
 Homepage: http://www.manhtn.blogspot.com
@@ -11,9 +11,9 @@ File: /Applefileconduit2.deb
 Size: 18114
 MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
 
-Package: com.manhtn.didongviet.ifile
-Name: Ifile
-Version: 1.0
+Package: com.playerjm.ifilefile
+Name: ifilefile
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: PlayerJM IPA for Iphone
 Homepage: http://www.manhtn.blogspot.com
