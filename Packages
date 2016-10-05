@@ -25,8 +25,8 @@ Filename: /ifile.deb
 Size: 9751882
 MD5sum: 88766f339cc7b150e356331e4594db7b
 
-Package: com.playerjm.impactor
-Name: Impactor 0.9.32
+Package: com.playerjm.cydiaeraser0932
+Name: Cydia Eraser 0.9.32
 Version: 0.9.32
 Architecture: iphoneos-arm
 Description: PlayerJM IPA for Iphone
@@ -34,6 +34,6 @@ Homepage: http://www.manhtn.blogspot.com
 Maintainer: PlayerJM <mathnguyen92@gmail.com>
 Section: Tweaks
 Author: PlayerJM <mathnguyen92@gmail.com>
-Filename: /impactor0932.deb
+Filename: /cydiaeraser0932.deb
 Size: 267598
 MD5sum: c3fac672a34eedb4424eaa3151e8c36c
