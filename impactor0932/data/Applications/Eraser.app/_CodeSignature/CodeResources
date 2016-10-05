@@ -4,57 +4,53 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Eraser.dat</key>
+		<data>
+		ExdNdG99z8gs07WQc3IzepOZAeY=
+		</data>
+		<key>Eraser.dylib</key>
+		<data>
+		E+9qfu5r+Ukhi8UkOo5bn6Nd0iE=
+		</data>
 		<key>Icon-60@2x.png</key>
 		<data>
-		mljNtiHairJWTVyUzf0YQD+mqoQ=
+		jxOMk87nlGiPhdX/84tZ0JeU3Ko=
 		</data>
 		<key>Icon-60@3x.png</key>
 		<data>
-		gyiRvm0SeryXxOpXf4/Wc8LIIio=
+		g8zyD35Q7jdaTQ+L2ifxY07smrg=
 		</data>
 		<key>Icon-76.png</key>
 		<data>
-		tE/oYtWSJVum2aJKHzF8hgHswmE=
+		OLQiksFIK3DOsYl5cYr+D+YpC1g=
 		</data>
 		<key>Icon-76@2x.png</key>
 		<data>
-		wGr81nqhdLjSOy9rkJw21zJfJ50=
+		yi/DgYk2Oy+g0sxykg4XoRsCB5k=
 		</data>
 		<key>Icon-Small-40.png</key>
 		<data>
-		/s2C1hSXBp3gJkVIrJsLMZrerms=
+		vUpVEZiHQpTyPj2JxuSp4NQYlNg=
 		</data>
 		<key>Icon-Small-40@2x.png</key>
 		<data>
-		VX9haJKGFbtCM5et0KuTHfkEWM0=
+		iwTqUHnUaYiSH2cZlhVYGOh8qFI=
 		</data>
 		<key>Icon-Small-40@3x.png</key>
 		<data>
-		mljNtiHairJWTVyUzf0YQD+mqoQ=
-		</data>
-		<key>Icon-Small.png</key>
-		<data>
-		u3KIL09VGN70XlAkaeq81PyyX2Q=
+		jxOMk87nlGiPhdX/84tZ0JeU3Ko=
 		</data>
 		<key>Icon-Small@2x.png</key>
 		<data>
-		C4zKVT08eMopqpqze2omgJ39U1Y=
+		ZSXfTqIz9Wiw7J5cjVh7NHTXdqo=
 		</data>
 		<key>Icon-Small@3x.png</key>
 		<data>
-		opvMIe7gZFS32BG4q98fhruoSrk=
-		</data>
-		<key>Impactor.dat</key>
-		<data>
-		5Yzr/HF98ae+THqGZ/v6u2xUjuY=
-		</data>
-		<key>Impactor.dylib</key>
-		<data>
-		psgDUO/P5dYTxkfGV5rPi/t46Ew=
+		6B5fEMXtpdEVjDmj4/3lXWVTBBo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JsneWXA4pBYFn3r8kxE14Ccsiys=
+		LmJ81OLgI1fGipgf4gJvDHUpMXM=
 		</data>
 		<key>iOS7-Default-568h@2x.png</key>
 		<data>
@@ -95,53 +91,49 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Eraser.dat</key>
+		<data>
+		ExdNdG99z8gs07WQc3IzepOZAeY=
+		</data>
+		<key>Eraser.dylib</key>
+		<data>
+		E+9qfu5r+Ukhi8UkOo5bn6Nd0iE=
+		</data>
 		<key>Icon-60@2x.png</key>
 		<data>
-		mljNtiHairJWTVyUzf0YQD+mqoQ=
+		jxOMk87nlGiPhdX/84tZ0JeU3Ko=
 		</data>
 		<key>Icon-60@3x.png</key>
 		<data>
-		gyiRvm0SeryXxOpXf4/Wc8LIIio=
+		g8zyD35Q7jdaTQ+L2ifxY07smrg=
 		</data>
 		<key>Icon-76.png</key>
 		<data>
-		tE/oYtWSJVum2aJKHzF8hgHswmE=
+		OLQiksFIK3DOsYl5cYr+D+YpC1g=
 		</data>
 		<key>Icon-76@2x.png</key>
 		<data>
-		wGr81nqhdLjSOy9rkJw21zJfJ50=
+		yi/DgYk2Oy+g0sxykg4XoRsCB5k=
 		</data>
 		<key>Icon-Small-40.png</key>
 		<data>
-		/s2C1hSXBp3gJkVIrJsLMZrerms=
+		vUpVEZiHQpTyPj2JxuSp4NQYlNg=
 		</data>
 		<key>Icon-Small-40@2x.png</key>
 		<data>
-		VX9haJKGFbtCM5et0KuTHfkEWM0=
+		iwTqUHnUaYiSH2cZlhVYGOh8qFI=
 		</data>
 		<key>Icon-Small-40@3x.png</key>
 		<data>
-		mljNtiHairJWTVyUzf0YQD+mqoQ=
-		</data>
-		<key>Icon-Small.png</key>
-		<data>
-		u3KIL09VGN70XlAkaeq81PyyX2Q=
+		jxOMk87nlGiPhdX/84tZ0JeU3Ko=
 		</data>
 		<key>Icon-Small@2x.png</key>
 		<data>
-		C4zKVT08eMopqpqze2omgJ39U1Y=
+		ZSXfTqIz9Wiw7J5cjVh7NHTXdqo=
 		</data>
 		<key>Icon-Small@3x.png</key>
 		<data>
-		opvMIe7gZFS32BG4q98fhruoSrk=
-		</data>
-		<key>Impactor.dat</key>
-		<data>
-		5Yzr/HF98ae+THqGZ/v6u2xUjuY=
-		</data>
-		<key>Impactor.dylib</key>
-		<data>
-		psgDUO/P5dYTxkfGV5rPi/t46Ew=
+		6B5fEMXtpdEVjDmj4/3lXWVTBBo=
 		</data>
 		<key>iOS7-Default-568h@2x.png</key>
 		<data>

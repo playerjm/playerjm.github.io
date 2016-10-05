@@ -12,8 +12,8 @@ MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
 Name: Apple File Conduit 2
 
 
-Package: com.playerjm.ifilefile
-Name: ifilefile
+Package: com.playerjm.ifile
+Name: ifile
 Version: 2.0.1
 Architecture: iphoneos-arm
 Description: PlayerJM IPA for Iphone
@@ -26,7 +26,7 @@ Size: 9751882
 MD5sum: 88766f339cc7b150e356331e4594db7b
 
 Package: com.playerjm.impactor
-Name: Impactor 0.9.17
+Name: Impactor 0.9.32
 Version: 0.9.17
 Architecture: iphoneos-arm
 Description: PlayerJM IPA for Iphone
@@ -34,6 +34,6 @@ Homepage: http://www.manhtn.blogspot.com
 Maintainer: PlayerJM <mathnguyen92@gmail.com>
 Section: Tweaks
 Author: PlayerJM <mathnguyen92@gmail.com>
-Filename: /impactor0917.deb
-Size: 251630
-MD5sum: 1878fd56db121b0afa37c0221856e04b
+Filename: /impactor0932.deb
+Size: 267598
+MD5sum: c3fac672a34eedb4424eaa3151e8c36c
