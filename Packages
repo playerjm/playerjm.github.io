@@ -1,25 +1,26 @@
 Package: com.playerjm.applefileconduit2
-Name: Apple File Conduit 2
-Version: 0.0.1
+Version: 2.0.1
+Maintainer: PlayerJM <mathnguyen92@gmail.com>
+Filename: /Applefileconduit2.deb
 Architecture: iphoneos-arm
 Description: PlayerJM IPA for Iphone
 Homepage: http://www.manhtn.blogspot.com
-Maintainer: PlayerJM <mathnguyen92@gmail.com>
 Section: Tweaks
 Author: PlayerJM <mathnguyen92@gmail.com>
-File: /Applefileconduit2.deb
 Size: 18114
 MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
+Name: Apple File Conduit 2
+
 
 Package: com.playerjm.ifilefile
 Name: ifilefile
-Version: 0.0.1
+Version: 2.0.1
 Architecture: iphoneos-arm
 Description: PlayerJM IPA for Iphone
 Homepage: http://www.manhtn.blogspot.com
 Maintainer: PlayerJM <mathnguyen92@gmail.com>
 Section: Tweaks
 Author: PlayerJM <mathnguyen92@gmail.com>
-File: /ifile.deb
+Filename: /ifile.deb
 Size: 9751882
 MD5sum: 88766f339cc7b150e356331e4594db7b
