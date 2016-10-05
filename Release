@@ -1,0 +1,7 @@
+Origin: ManhTN
+Label: ManhTN RePO
+Suite: stable
+Version: 1.0
+Architecture: iphoneos-arm
+Components: main
+Description: ManhTN is ok Hello

@@ -1,0 +1,25 @@
+Package: com.manhtn.didongviet.applefilecoduit
+Name: 367QT
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ManhTN IPA for Iphone
+Homepage: http://www.didongviet.vn
+Maintainer: didongviet
+Author: Playerjm <mathnguyen92@gmail.com>
+Section: Applications
+File: .debs/com.saurik.afc2d_1.2_iphoneos-arm.deb
+Size: 18114
+MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
+
+Package: com.manhtn.didongviet.ifile
+Name: 367QT
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ManhTN IPA for Iphone
+Homepage: http://www.didongviet.vn
+Maintainer: didongviet
+Author: Playerjm <mathnguyen92@gmail.com>
+Section: Applications
+File: .debs/eu.heinelt.ifile_2.2.0-1_iphoneos-arm.deb
+Size: 9751882
+MD5sum: 88766f339cc7b150e356331e4594db7b
