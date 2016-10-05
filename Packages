@@ -24,3 +24,16 @@ Author: PlayerJM <mathnguyen92@gmail.com>
 Filename: /ifile.deb
 Size: 9751882
 MD5sum: 88766f339cc7b150e356331e4594db7b
+
+Package: com.playerjm.impactor
+Name: Impactor 0.9.17
+Version: 0.9.17
+Architecture: iphoneos-arm
+Description: PlayerJM IPA for Iphone
+Homepage: http://www.manhtn.blogspot.com
+Maintainer: PlayerJM <mathnguyen92@gmail.com>
+Section: Tweaks
+Author: PlayerJM <mathnguyen92@gmail.com>
+Filename: /impactor0917.deb
+Size: 251630
+MD5sum: 1878fd56db121b0afa37c0221856e04b
