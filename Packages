@@ -37,3 +37,16 @@ Author: PlayerJM <mathnguyen92@gmail.com>
 Filename: /cydiaeraser0932.deb
 Size: 267598
 MD5sum: c3fac672a34eedb4424eaa3151e8c36c
+
+Package: com.playerjm.doubletaptosleep1211
+Name: Double tap to sleep 1.2.11
+Version: 1.2.11
+Architecture: iphoneos-arm
+Description: PlayerJM IPA for Iphone
+Homepage: http://www.manhtn.blogspot.com
+Maintainer: PlayerJM <mathnguyen92@gmail.com>
+Section: Tweaks
+Author: PlayerJM <mathnguyen92@gmail.com>
+Filename: /doubletaptosleep1211.deb
+Size: 9086 
+MD5sum: 6c8aa80d8c339b30d85737d4e3aebad3
