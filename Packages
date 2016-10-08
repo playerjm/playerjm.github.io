@@ -50,3 +50,16 @@ Author: PlayerJM <mathnguyen92@gmail.com>
 Filename: /doubletaptosleep1211.deb
 Size: 9086 
 MD5sum: 6c8aa80d8c339b30d85737d4e3aebad3
+
+Package: com.playerjm.audiorecorder10
+Name: Audio & Call Recorder 1.0
+Version: 1.0
+Architecture: iphoneos-arm
+Description: PlayerJM IPA for Iphone
+Homepage: http://www.manhtn.blogspot.com
+Maintainer: PlayerJM <mathnguyen92@gmail.com>
+Section: Tweaks
+Author: PlayerJM <mathnguyen92@gmail.com>
+Filename: /audiorecorder10.deb
+Size: 3263528  
+MD5sum: df049fbb710ab27c15e6aec92ae2b981

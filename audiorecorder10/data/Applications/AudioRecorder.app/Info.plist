@@ -1,0 +1,38 @@
+{
+    CFBundleExecutable = "AudioRecorder";
+    CFBundleIconFile = icon.png;
+    CFBundleDisplayName = "AudioRecorder";
+    CFBundleIdentifier = "net.limneos.AudioRecorder";
+    CFBundleInfoDictionaryVersion = 6.0;
+    CFBundlePackageType = APPL;
+    CFBundleSignature = "????";
+    CFBundleSupportedPlatforms = (
+	iPhoneOS
+    );
+    CFBundleVersion = 1.0;
+    DTPlatformName = iphoneos;
+    DTSDKName = iphoneos3.0;
+    LSRequiresIPhoneOS = 1;
+    MinimumOSVersion = 3.0;
+    UIDeviceFamily =     (
+	1,
+	2
+    );
+    UIBackgroundModes =     (
+        fetch
+    );
+    UIStatusBarStyle = UIStatusBarStyleLightContent;
+    UISupportedInterfaceOrientations =     (
+   	UIInterfaceOrientationPortrait
+    );
+    CFBundleURLTypes =     (
+                {
+            CFBundleURLName = "DropBox Callback";
+            CFBundleURLSchemes =             (
+                db-bh7i4r45kr5pifp,
+                audiorecorder
+            );
+        }
+    );
+
+}
