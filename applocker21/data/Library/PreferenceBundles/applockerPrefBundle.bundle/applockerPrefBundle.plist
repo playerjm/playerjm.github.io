@@ -37,7 +37,7 @@
 			<key>key</key>
 			<string>enabled</string>
 			<key>alternateColors</key>
-			<true/>
+			<string>true</string>
 		</dict>
 		<dict>
 			<key>cell</key>
