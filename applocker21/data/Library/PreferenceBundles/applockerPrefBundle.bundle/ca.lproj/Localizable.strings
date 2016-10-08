@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>Opcions</string>
+	<key>GENERAL_TITLE</key>
+	<string>General</string>
+	<key>ENABLED</key>
+	<string>Activat</string>
+	<key>APPLICATION_LOCKING_TITLE</key>
+	<string>Bloqueig d'aplicacions</string>
+	<key>FOLDER_LOCKING_TITLE</key>
+	<string>Bloqueig de carpetes</string>
+	<key>RESET_PASSWORD_PHRASE_TITLE</key>
+	<string>Reseteja la frase</string>
+	<key>MORE_TITLE</key>
+	<string>Més</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Guia de l'usuari</string>
+	<key>APPLOCKER_TOGGLES</key>
+	<string>Interruptors Applocker</string>
+	<key>FOLLOW_ME_FOR_UPDATES</key>
+	<string>Segueix-me per actualitzacions</string>
+	<key>SUPPORT_IN_CYDIA</key>
+	<string>Suport (a Cydia)</string>
+	<key>COPYRIGHT_TEXT</key>
+	<string>2.1 © 2011-2012 Applocker, Ori Kadosh. Traducció per Jesus Badia (winfis), @WinfisDesign</string>
+	<key>GENERAL_FOOTER</key>
+	<string>Bloqueig intel·ligent - Quan una carpeta/aplicació és desbloquejada, tot queda desbloquejat i es rebloqueja després que l'aparell hagi estat bloquejat.
+		El teclat numèric requereix una contrasenya numèrica</string>
+	<key>SESSION_LOCKING</key>
+	<string>Bloqueig intel·ligent</string> 
+	<key>LOCK_SETTINGS</key>
+	<string>Opcions de bloqueig</string>
+	<key>LOCK_DEVICE</key>
+	<string>Bloqueja l'aparell si falla</string>
+	<key>AUTO_LAUNCH</key>
+	<string>Obra automàticament</string>
+	<key>ANIMATION_TYPE</key>
+	<string>Tipus d'animació</string>
+	<key>STANDARD_ANIMATION</key>
+	<string>Estàndar</string>
+	<key>COOL_ANIMATION</key>
+	<string>Guai</string>
+	<key>NUMERIC_KEYPAD</key>
+	<string>Teclat numèric</string>
+	<key>PASSWORD_LABEL</key>
+	<string>Contrasenya</string>
+	<key>PLAIN_TEXT_PASSWORD_WARNING</key>
+	<string>La teva contrasenya es guarda en format text.</string>
+	<key>APPLICATIONS_TITLE</key>
+	<string>Aplicacions</string>
+	<key>APPLICATIONS_FOOTER</key>
+	<string>Selecció Invertida - Desbloqueja les aplicacions seleccionades i bloqueja les no seleccionades.
+També pots entrar el mode d'edició (vibració d'icones) i bloquejar aplicacions des d'allà! No cal que vinguis fins aquí cada cop.</string>
+	<key>INVERT_SELECTION</key>
+	<string>Selecció invertida</string>
+	<key>LOCK_FROM_JIGGLE_MODE</key>
+	<string>Bloqueja des del mode d'edició</string>
+	<key>ADVANCED_TITLE</key>
+	<string>Avançat</string>
+	<key>DONT_LOCK_FROM</key>
+	<string>No bloquegis aplicacions des de</string>
+	<key>DONT_LOCK_FROM_DESCRIPTION</key>
+	<string>Les aplicacions NO estaran bloquejada des d'aquests llocs.
+"Obertura PostApp" és, bàsicament, "tota la resta" excepta la pantalla principal, el buscador, la barra de multitasca i les notificacions.
+Si desactives alguna opció i mantens "Obertura PostApp" activat, l'aplicació es bloquejarà igualment.</string>
+	<key>MULTITASKING_SWITCHER</key>
+	<string>Barra de multitasca</string>
+	<key>NOTIFICATION_BANNERS</key>
+	<string>Notificacions</string>
+	<key>POST_APP_LAUNCH</key>
+	<string>Obertura PostApp</string>
+	<key>FOLDER_LOCKING_FOOTER</key>
+	<string>Escriu el nom EXACTE (sensible a minúscules/majúscules) de la carpeta que vols bloquejar.
+Bloquejar una carpeta no bloqueja les aplicacions que conté. Utilitza "Bloqueig d'aplicacions" per això.</string>
+	<key>FOLDER_NAME</key>
+	<string>Nom de la carpeta</string>
+	<key>RESET_PASSWORD_PHRASE_FOOTER</key>
+	<string>Si has oblidat la teva contrasenya i n'has entrat una d'errònia, se't demanarà per aquesta frase per resetejar la contrasenya a 1234.</string>
+	<key>SECRET_PHRASE</key>
+	<string>Frase Secreta</string>
+	<key>LAYOUT_LOCKING_TITLE</key>
+	<string>Bloqueig de l'aparença</string>
+	<key>LAYOUT_LOCKING_FOOTER</key>
+	<string>Activa per bloquejar l'edició de la disposició de les icones (vibració d'icones).</string>
+	<key>DISABLE_ON_WIFI_TITLE</key>
+	<string>Desactiva AppLocker en una determinada Wifi</string>
+	<key>DISABLE_ON_WIFI_FOOTER</key>
+	<string>Escriu el nom de les xarxa Wifi d'un lloc que confiïs, com la de casa teva, per tal que puguis obrir les aplicacions a casa teva sense haver d'entrar una contrasenya.</string>
+	<key>WIFI_NETWORK</key>
+	<string>Xarxa Wifi</string>
+	<key>SET_WIFI</key>
+	<string>Seleccions la Wifi actual</string>
+	<key>DISABLE_PHOTOS_IN_CAMERA</key>
+	<string>Desactiva les fotos a la càmera</string>
+	<key>DISABLE_PHOTOS_FOOTER</key>
+	<string>Activa-ho per desactivar l'accés a les fotos des de l'aplicació de la càmera.
+Això és útil si vols restringir l'accés a les fotos sense posar una contrasenya cada cop que fas una foto.
+Només per iOS 5. Fes Respring per aplicar els canvis.</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Guia de l'usuari</string>
+	<key>USER_GUIDE_FOOTER</key>
+	<string>Com puc resetejar la meva contrasenya?
+Apart d'utilitzant la opció de "Resetejar la contrasenya" o esborrant i reinstal·lant Applocker des de Cydia, pots esborrar aquest fitxer:
+/var/mobile/Library/Preferences/com.nnfyrbsnss.applocker.plist
+
+Què és el "Bloqueig Intel·ligent"?
+Activar el "Bloqueig Intel·ligent" permet canviar ràpidament d'aplicacions sense necessitat d'entrar la contrasenya cada cop. Escrius la contrasenya el primer cop que obris una aplicació bloquejada (o obres una carpeta o entres el mode d'edició) i, després d'això, Applocker no et demanarà pel password fins que tornis a bloquejar l'aparell (les aplicacions es tornaran a bloquejar).
+
+Què és "Bloqueja l'aparell si falla"?
+Això bloqueja l'aparell si s'ha entrat la contrasenya errònia. Evidentment això té un conflicte amb "Obre automàticament". "Bloqueja l'aparell si falla" serà ignorat si "Obre automàticament" està activat.
+
+Què és "Obre automàticament"?
+"Obre automàticament" - com ja suggereix el seu nom - obre automàticament l'aplicació en qüestió tan bon punt s'ha entrat la contrasenya correcta. Això evita el botó d'"Obre".
+
+Perquè no puc veure el teclat numèric?
+Assegura't que la contrasenya és numèrica. Si tens ni que sigui una sola lletra en la contrasenya, el teclat numèric estarà desactivat, per tal de donar-te la opció d'entrat la teva contrasenya.
+
+Alguna pregunta més? Envia'm un correu (en anglès) a través de Cydia (Applocker > Author). Si tens qualsevol dubte/queixa/suggerència sobre la traducció al Català, pots contactar amb el traductor a través de Twitter (@WinfisDesign) o per correu (winfis@gmail.com).</string>
+</dict>
+</plist>

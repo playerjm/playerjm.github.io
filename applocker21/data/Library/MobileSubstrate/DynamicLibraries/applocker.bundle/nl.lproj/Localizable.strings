@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_YOUR_PASSWORD</key>
+	<string>Voer uw wachtwoord in</string>
+	<key>APP_IS_LOCKED</key>
+	<string>%@ is vergrendeld</string>
+	<key>APP_IS_UNLOCKED</key>
+	<string>%@ is ontgrendeld</string>
+	<key>WRONG_PASSWORD</key>
+	<string>Verkeerd wachtwoord</string>
+	<key>WRONG_PHRASE</key>
+	<string>Verkeerde Wachtwoord Reset Zin</string>
+	<key>DISMISS</key>
+	<string>Negeer</string>
+	<key>SECRET_PHRASE_INSTRUCTION</key>
+	<string>Voer de geheime zin in om het wachtwoord te resetten naar 1234</string>
+	<key>RESET</key>
+	<string>Reset</string>
+	<key>SECRET_PHRASE</key>
+	<string>Geheime zin</string>
+	<key>RESET_SUCCESS</key>
+	<string>het wachtwoord is succesvol gewijzigd naar 1234</string>
+	<key>CANCEL</key>
+	<string>Annuleer</string>
+	<key>TOGGLE</key>
+	<string>Zet aan/uit</string>
+	<key>TOGGLE_APPLOCKER</key>
+	<string>Zet Applocker aan of uit</string>
+	<key>PASSWORD</key>
+	<string>Wachtwoord</string>
+	<key>WIFI_SET_SUCCESS</key>
+	<string>Het huidige wifi netwerk is ingesteld</string>
+	<key>WIFI_SET_SUCCESS_INFO</key>
+	<string>U moet mogelijk de Instellingen verlaten en opnieuw openen om de veranderingen te zien</string>
+	<key>WIFI_NOT_CONNECTED</key>
+	<string>Niet verbonden met een wifi netwerk</string>
+	<key>WIFI_NOT_CONNECTED_INFO</key>
+	<string>Maak alstublieft verbinding met een wifi netwerk om deze in applocker in te stellen als vertrouwd netwerk</string>
+	<key>LAUNCH</key>
+	<string>Open</string>
+	<key>ENTER_PASSWORD_TO_UNLOCK</key>
+	<string>Voer uw wachtwoord in om te ontgrendelen</string>
+	<key>ENTER_PASSWORD_TO_LOCK</key>
+	<string>Voer uw wachtwoord in om te vergrendelen</string>
+	<key>LOCK</key>
+	<string>Vergrendel</string>
+	<key>UNLOCK</key>
+	<string>Ontgrendel</string>
+	<key>LAYOUT_LOCKED</key>
+	<string>Layout bewerken is vergrendeld</string>
+	<key>EDIT_LAYOUT</key>
+	<string>Bewerk de layout</string>
+	<key>FOLDER_IS_LOCKED</key>
+	<string>De map %@ is vergrendeld</string>
+	<key>OPEN_FOLDER</key>
+	<string>Open map</string>
+</dict>
+</plist>

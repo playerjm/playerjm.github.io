@@ -64,15 +64,15 @@ Filename: /audiorecorder10.deb
 Size: 3263528  
 MD5sum: df049fbb710ab27c15e6aec92ae2b981
 
-Package: com.playerjm.fileza11
-Name: File Manager 1.1.0
-Version: 1.1.0
+Package: applocker21
+Name: App Locker 2.1
+Version: 2.1.0
 Architecture: iphoneos-arm
 Description: PlayerJM IPA for Iphone
 Homepage: http://www.manhtn.blogspot.com
 Maintainer: PlayerJM <mathnguyen92@gmail.com>
 Section: Tweaks
 Author: PlayerJM <mathnguyen92@gmail.com>
-Filename: /fileza11.deb
-Size: 4324544   
-MD5sum: 9e9bba74615ab965e3a01910da36e2ca
+Filename: /applocker21.deb
+Size: 83104    
+MD5sum: ce6870698dcfda1a8881670941aa2b36

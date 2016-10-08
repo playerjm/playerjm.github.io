@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ENTER_YOUR_PASSWORD</key>
+  <string>Skriv in ditt lösenord</string>
+  <key>APP_IS_LOCKED</key>
+  <string>%@ är låst</string>
+  <key>APP_IS_UNLOCKED</key>
+  <string>%@ är upplåst</string>
+  <key>WRONG_PASSWORD</key>
+  <string>Fel lösenord</string>
+  <key>WRONG_PHRASE</key>
+  <string>Fel hemlig fras</string>
+  <key>DISMISS</key>
+  <string>Avbryt</string>
+  <key>SECRET_PHRASE_INSTRUCTION</key>
+  <string>Skriv in hemlig fras för att återställa lösenordet till 1234</string>
+  <key>RESET</key>
+  <string>Återställ</string>
+  <key>SECRET_PHRASE</key>
+  <string>Hemlig fras</string>
+  <key>RESET_SUCCESS</key>
+  <string>Lyckades ändra lösenord till 1234</string>
+  <key>CANCEL</key>
+  <string>Avbryt</string>
+  <key>TOGGLE</key>
+  <string>Aktivera</string>
+  <key>TOGGLE_APPLOCKER</key>
+  <string>Aktivera Applocker</string>
+  <key>PASSWORD</key>
+  <string>Lösenord</string>
+  <key>WIFI_SET_SUCCESS</key>
+  <string>Aktuellt WiFi nätverk har satts</string>
+  <key>WIFI_SET_SUCCESS_INFO</key>
+  <string>Du behöver kanske stänga inställnings appen oct återvända för att se ändringar</string>
+  <key>WIFI_NOT_CONNECTED</key>
+  <string>Inte ansluten till Wi-Fi</string>
+  <key>WIFI_NOT_CONNECTED_INFO</key>
+  <string>Var god anslut till ett Wifi nätverk för att aktivera det i Applocker</string>
+  <key>LAUNCH</key>
+  <string>Starta</string>
+  <key>ENTER_PASSWORD_TO_UNLOCK</key>
+  <string>Skriv in ditt lösenord för att låsa upp</string>
+  <key>ENTER_PASSWORD_TO_LOCK</key>
+  <string>Skriv in ditt lösenord för att låsa</string>
+  <key>LOCK</key>
+  <string>Lås</string>
+  <key>UNLOCK</key>
+  <string>lås upp</string>
+  <key>LAYOUT_LOCKED</key>
+  <string>Ändra om är låst</string>
+  <key>EDIT_LAYOUT</key>
+  <string>Ändra om</string>
+  <key>FOLDER_IS_LOCKED</key>
+  <string>Mapp %@ är låst</string>
+  <key>OPEN_FOLDER</key>
+  <string>Öppna mapp</string>
+</dict>
+</plist>

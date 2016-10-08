@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_YOUR_PASSWORD</key>
+	<string>أدخل كلمة السر</string>
+	<key>APP_IS_LOCKED</key>
+	<string>%@ مقفل</string>
+	<key>APP_IS_UNLOCKED</key>
+	<string>%@ غير مقفل</string>
+	<key>WRONG_PASSWORD</key>
+	<string>كلمة سر خاطئة</string>
+	<key>WRONG_PHRASE</key>
+	<string>العبارة السرية خاطئة</string>
+	<key>DISMISS</key>
+	<string>إستبعاد</string>
+	<key>SECRET_PHRASE_INSTRUCTION</key>
+	<string>أدخل العبارة السرية لإعدة ضبط كلمة السر إلى 1234</string>
+	<key>RESET</key>
+	<string>إعادة تعيين</string>
+	<key>SECRET_PHRASE</key>
+	<string>العبارة السرية</string>
+	<key>RESET_SUCCESS</key>
+	<string>تم إعادة تعيين كلمة السر بنجاح إلى 1234</string>
+	<key>CANCEL</key>
+	<string>إالغاء</string>
+	<key>TOGGLE</key>
+	<string>زر التفعيل</string>
+	<key>TOGGLE_APPLOCKER</key>
+	<string>زر تفعيل Applocker</string>
+	<key>PASSWORD</key>
+	<string>كلمة السر</string>
+	<key>WIFI_SET_SUCCESS</key>
+	<string>تم إدخال شبكة الواي فاي الحالية</string>
+	<key>WIFI_SET_SUCCESS_INFO</key>
+	<string>قد يكون عليك أن تخرج من تطبيق الإعدادات والعودة كي ترى التغييرات</string>
+	<key>WIFI_NOT_CONNECTED</key>
+	<string>غير متصل بالواي فاي</string>
+	<key>WIFI_NOT_CONNECTED_INFO</key>
+	<string>الرجاء الإتصال بشبكة واي فاي من أجل إدخالها في Applocker</string>
+	<key>LAUNCH</key>
+	<string>إطلاق</string>
+	<key>ENTER_PASSWORD_TO_UNLOCK</key>
+	<string>قم بإدخال كلمة السر لفتح القفل</string>
+	<key>ENTER_PASSWORD_TO_LOCK</key>
+	<string>قم بإدخال كلمة السر للقفل</string>
+	<key>LOCK</key>
+	<string>قفل</string>
+	<key>UNLOCK</key>
+	<string>فتح القفل</string>
+	<key>LAYOUT_LOCKED</key>
+	<string>تعديل مواضع الأيكونات مقفل</string>
+	<key>EDIT_LAYOUT</key>
+	<string>تعديل مواضع الأيكونات</string>
+	<key>FOLDER_IS_LOCKED</key>
+	<string>المجلد %@ مقفل</string>
+	<key>OPEN_FOLDER</key>
+	<string>فتح المجلد</string>
+</dict>
+</plist>

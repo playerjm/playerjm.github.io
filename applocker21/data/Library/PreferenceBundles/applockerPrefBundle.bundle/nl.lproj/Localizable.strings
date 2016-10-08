@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>Instellingen</string>
+	<key>GENERAL_TITLE</key>
+	<string>Algemeen</string>
+	<key>ENABLED</key>
+	<string>Geactiveerd</string>
+	<key>APPLICATION_LOCKING_TITLE</key>
+	<string>Applicatie Vergrendeling</string>
+	<key>FOLDER_LOCKING_TITLE</key>
+	<string>Map Vergrendeling</string>
+	<key>RESET_PASSWORD_PHRASE_TITLE</key>
+	<string>Wachtwoord Reset Code</string>
+	<key>MORE_TITLE</key>
+	<string>Meer</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Handleiding</string>
+	<key>APPLOCKER_TOGGLES</key>
+	<string>Applocker Knoppen</string>
+	<key>FOLLOW_ME_FOR_UPDATES</key>
+	<string>Volg mij voor updates</string>
+	<key>SUPPORT_IN_CYDIA</key>
+	<string>Support (in Cydia)</string>
+	<key>COPYRIGHT_TEXT</key>
+	<string>2.1 © 2011-2012 Applocker, Ori Kadosh</string>
+	<key>GENERAL_FOOTER</key>
+	<string>Sessie Vergrendeling - zodra een app word ontgrendeld zijn alle andere apps ook ontgrendeld tot je je iDevice vergrendeld.
+		Numeriek toetsenbord vereist een numeriek wachtwoord</string>
+	<key>SESSION_LOCKING</key>
+	<string>Sessie Vergrendeling</string> 
+	<key>LOCK_SETTINGS</key>
+	<string>Vergrendel "Instellingen"</string>
+	<key>LOCK_DEVICE</key>
+	<string>Vergrendel Apparaat na mislukte poging tot ontgrendeling</string>
+	<key>AUTO_LAUNCH</key>
+	<string>Automatisch opstarten</string>
+	<key>ANIMATION_TYPE</key>
+	<string>Animatie Type</string>
+	<key>STANDARD_ANIMATION</key>
+	<string>Standaard</string>
+	<key>COOL_ANIMATION</key>
+	<string>Cool</string>
+	<key>NUMERIC_KEYPAD</key>
+	<string>Numeriek toetsenbord</string>
+	<key>PASSWORD_LABEL</key>
+	<string>Wachtwoord</string>
+	<key>PLAIN_TEXT_PASSWORD_WARNING</key>
+	<string>Je wachtwoord word als normale tekst opgeslagen op je telefoon.</string>
+	<key>APPLICATIONS_TITLE</key>
+	<string>pplicaties</string>
+	<key>APPLICATIONS_FOOTER</key>
+	<string>Draai de selectie om - ontgrendel de gekozen apps en vergrendel de niet geselecteerde apps.
+je kan ook in de springboard bewerkingsmodus (jiggle mode) apps vergrendelen!</string>
+	<key>INVERT_SELECTION</key>
+	<string>Draai de selectie om</string>
+	<key>LOCK_FROM_JIGGLE_MODE</key>
+	<string>Vergrendel vanaf jiggle mode</string>
+	<key>ADVANCED_TITLE</key>
+	<string>Geavanceerd</string>
+	<key>DONT_LOCK_FROM</key>
+	<string>Vergrendel geen apps die worden opgestard vanaf</string>
+	<key>DONT_LOCK_FROM_DESCRIPTION</key>
+	<string>Apps worden niet vergrendeld vanaf de volgende plekken.
+Post app launch is simpelgezegd alles behalve je springboard, Spotlight, Multitasking Balk en notificatiecentrum banners. als je iets uitschakelt en Post app Launch aan laat staan blijft het deze app nog steeds vergrendelen..</string>
+	<key>MULTITASKING_SWITCHER</key>
+	<string>Multitasking Balk</string>
+	<key>NOTIFICATION_BANNERS</key>
+	<string>Notificatiecentrum balk</string>
+	<key>POST_APP_LAUNCH</key>
+	<string>Post App Launch</string>
+	<key>FOLDER_LOCKING_FOOTER</key>
+	<string>Voer de EXACTE naam van de map in (hoofdlettergevoelig) van de map die je wilt vergrendelen. LET OP: een map vergrendelen vergrendelt niet meteen de apps die in de map staan gebruik daar de applicatie vergrendeling voor.</string>
+	<key>FOLDER_NAME</key>
+	<string>Map Naam</string>
+	<key>RESET_PASSWORD_PHRASE_FOOTER</key>
+	<string>als je je wachtwoord vergeet word je naar deze zin gevraagd. als je deze zin correct invult word je wachtwoord gereset naar 1234</string>
+	<key>SECRET_PHRASE</key>
+	<string>Wachtwoord reset zin</string>
+	<key>LAYOUT_LOCKING_TITLE</key>
+	<string>Layout vergrendeling</string>
+	<key>LAYOUT_LOCKING_FOOTER</key>
+	<string>zet dit aan om vanaf je springboard apps te vergrendelen (jiggle mode).</string>
+	<key>DISABLE_ON_WIFI_TITLE</key>
+	<string>Schakel applocker uit indien je met bepaalde wifi netwerken bent verbonden</string>
+	<key>DISABLE_ON_WIFI_FOOTER</key>
+	<string>Voer hier een naam in van een wifi netwerk. indien je met dit netwerk bent verbonden vraagt applocker niet naar het wachtwoord tijdens het opstarten van een "vergrendelde" app</string>
+	<key>WIFI_NETWORK</key>
+	<string>WiFi Network</string>
+	<key>SET_WIFI</key>
+	<string>Gebruik huidige Wifi netwerk</string>
+	<key>DISABLE_PHOTOS_IN_CAMERA</key>
+	<string>Zet de afbeeldingengallerij in de camera app uit</string>
+	<key>DISABLE_PHOTOS_FOOTER</key>
+	<string>zet dit aan als je wilt voorkomen dat mensen je foto's kunnen bekijken zonder dat je ook je camera moet vergrendelen. Alleen geschikt voor IOS5 en vereist een Respring.</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Handleiding</string>
+	<key>USER_GUIDE_FOOTER</key>
+	<string>Hoe reset ik mijn wachtwoord?
+behalve de ingebouwde wachtwoordreset functie of applocker verwijderen en opnieuw installeren vanuit cydia, kan je dit bestand verwijderen vanaf je iDevice:
+/var/mobile/Library/Preferences/com.nnfyrbsnss.applocker.plist
+
+Wat is 'Sessie vergrendeling'?
+Waarneer sessie vergrendeling aan staat kan je makkelijk wisselen tussen vergrendelde apps. Je voert de eerste keer dat je een vergrendelde app opstart je wachtwoord in (of een vergendelde map opent of je iDevice in Jiggle mode zet), als je dan een andere vergrendelde app opent hoef je niet weer je wachtwoord in te voeren tot dat je je iDevice vergrendeld.
+
+Wat is 'Vergrendel Apparaat na mislukte poging tot ontgrendeling'?
+dit vergendeld je iDevice nadat je een verkeerd wachtwoord hebt ingevoerd. Dit werkt natuurlijk niet samen met Automatisch Opstarten. De optie Vergrendel Apparaat na mislukte poging tot ontgrendeling, word automatisch genegeerd als automatisch opstarten aanstaat.
+
+Wat is 'Automatisch opstarten'?
+Automatisch opstarten laat de app meteen opstarten zodra het goede wachtwoord is ingevoerd. Deze optie verwijderd de "Launch" knop.
+
+Waarom werkt het numeriek toetsenbord niet voor mij?
+Zorg ervoor dat er geen enkele letter in het wachtwoord staat, als dit wel zo is schakelt het automatisch het nummeriek toetsenbord uit
+
+Heeft u een andere vraag? Stuur mij een email via cydia. (Applocker > Author).</string>
+</dict>
+</plist>

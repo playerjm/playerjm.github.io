@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>Réglages</string>
+	<key>GENERAL_TITLE</key>
+	<string>Général</string>
+	<key>ENABLED</key>
+	<string>Activé</string>
+	<key>APPLICATION_LOCKING_TITLE</key>
+	<string>Verrouiller application</string>
+	<key>FOLDER_LOCKING_TITLE</key>
+	<string>Verrouiller dossier</string>
+	<key>RESET_PASSWORD_PHRASE_TITLE</key>
+	<string>Réinitialiser le mot de passe</string>
+	<key>MORE_TITLE</key>
+	<string>Plus</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Guide Utilisateur</string>
+	<key>APPLOCKER_TOGGLES</key>
+	<string>Toogles d'AppLocker</string>
+	<key>FOLLOW_ME_FOR_UPDATES</key>
+	<string>Followez-moi pour les mises à jour</string>
+	<key>SUPPORT_IN_CYDIA</key>
+	<string>Support (dans Cydia)</string>
+	<key>COPYRIGHT_TEXT</key>
+	<string>2.1 © 2011-2012 Applocker, Ori Kadosh</string>
+	<key>GENERAL_FOOTER</key>
+	<string>Session Locking - si vous avez entré une première fois le mot de passe, alors vous n'aurez plus besoin de le faire jusqu'à ce que vous verrouilliez votre device !
+		Un clavier numérique demande un mot de passe numérique</string>
+	<key>SESSION_LOCKING</key>
+	<string>Session Locking</string> 
+	<key>LOCK_SETTINGS</key>
+	<string>Verrouiller les réglages</string>
+	<key>LOCK_DEVICE</key>
+	<string>Verrouiller le device si échec</string>
+	<key>AUTO_LAUNCH</key>
+	<string>AutoLaunch</string>
+	<key>ANIMATION_TYPE</key>
+	<string>Type d'animation</string>
+	<key>STANDARD_ANIMATION</key>
+	<string>Standard</string>
+	<key>COOL_ANIMATION</key>
+	<string>Cool</string>
+	<key>NUMERIC_KEYPAD</key>
+	<string>Clavier numérique</string>
+	<key>PASSWORD_LABEL</key>
+	<string>Mot de passe</string>
+	<key>PLAIN_TEXT_PASSWORD_WARNING</key>
+	<string>Votre mot de passe est visible !</string>
+	<key>APPLICATIONS_TITLE</key>
+	<string>Applications</string>
+	<key>APPLICATIONS_FOOTER</key>
+	<string>Inverser la sélection - Déverrouiller les application choisies et verrouiller les application non-choisies.
+Vous pouvez également entrer en mode d'édition (sur le springboard) et verrouiller les applications.</string>
+	<key>INVERT_SELECTION</key>
+	<string>Inverser la sélection</string>
+	<key>LOCK_FROM_JIGGLE_MODE</key>
+	<string>Verrouiller depuis le mode d'édition</string>
+	<key>ADVANCED_TITLE</key>
+	<string>Avancé</string>
+	<key>DONT_LOCK_FROM</key>
+	<string>Ne pas verrouiller les apps lancées depuis</string>
+	<key>DONT_LOCK_FROM_DESCRIPTION</key>
+	<string>Les applications lancées ne seront PAS verrouillées depuis ces endroits !</string>
+	<key>MULTITASKING_SWITCHER</key>
+	<string>Barre multitâche</string>
+	<key>NOTIFICATION_BANNERS</key>
+	<string>Bannières de Notifications</string>
+	<key>POST_APP_LAUNCH</key>
+	<string>Post App Launch</string>
+	<key>FOLDER_LOCKING_FOOTER</key>
+	<string>Entrez le nom EXACT du dossier que vous souhaitez verrouiller.
+Cerouiller un dossier ne verrouillera pas les applications contenues à l'intérieur. Utilisez "Verrouiller application" pour ça.</string>
+	<key>FOLDER_NAME</key>
+	<string>Nom du dossier</string>
+	<key>RESET_PASSWORD_PHRASE_FOOTER</key>
+	<string>Si vous avez entré un mauvais mot de passe, nous vous demanderons d'entrer cette phrase et votre mot de passe sera réinitialisé en 1234.</string>
+	<key>SECRET_PHRASE</key>
+	<string>Phrase secrète</string>
+	<key>LAYOUT_LOCKING_TITLE</key>
+	<string>Annuler le déplacement d'icônes</string>
+	<key>LAYOUT_LOCKING_FOOTER</key>
+	<string>Activez pour annuler le mode édition d'icônes.</string>
+	<key>DISABLE_ON_WIFI_TITLE</key>
+	<string></string>
+	<key>DISABLE_ON_WIFI_FOOTER</key>
+	<string>Entrez le nom d'un réseau Wi-Fi dans lequel vous avez confiance, comme votre maison... Donc vous n'aurez pas à entrer de mot de passe si vous êtes connecté à ce dernier.</string>
+	<key>WIFI_NETWORK</key>
+	<string>Wi-FI</string>
+	<key>SET_WIFI</key>
+	<string>Utiliser le Wi-FI</string>
+	<key>DISABLE_PHOTOS_IN_CAMERA</key>
+	<string>Annuler les photos de l'app "Camera"</string>
+	<key>DISABLE_PHOTOS_FOOTER</key>
+	<string>Activer pour annuler l'accès à la caméra depuis le lockscreen.
+iOS 5 seulement ! Faire un respring pour appliquer !</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Guide d'utilisateur</string>
+	<key>USER_GUIDE_FOOTER</key>
+	<string>Comment puis-je réinitialiser mon mot de passe ?
+Pour réinitialiser votre mot de passe, rendez-vous en SSH ou depuis iFile dans ce répertoire : 
+/var/mobile/Library/Preferences/com.nnfyrbsnss.applocker.plist
+
+Qu'est-ce que "Session Locking" ?
+En activant Session Locking, vous pourrez aller d'une application verrouillée à une autre sans avoir besoin d'entrer son mot de passe. 
+Vous entrez le mot de passe une première fois, et AppLocker ne devrait plus vous demander de l'entrer jusqu'à ce que vous verrouilliez complètement votre device !
+
+Qu'est ce que 'Verrouiller le device si échec' ?
+Cette option verrouille le device si le mot de passe est incorrect. Evidemment, il y a un conflit avec AutoLaunch. 'Verrouiller le device si échec' sera ignoré si AutoLaunch est activé !
+
+Qu'est-ce qu'AutoLaunch ?
+AutoLunch - comme son nom le suggère - lance une application à chaque fois que le mot de passe est correct !
+Cela supprime le bouton 'Launch'
+
+Pourquoi le clavier numérique ne s'affiche pas chez moi ?
+Soyez sûr(e) que votre mot de passe soit numérique ! Avoir ne serait-ce qu'une lettre dans votre mot de passe supprimera le clavier numérique.
+
+D'autres questions ? Contactez-moi par mail sur Cydia depuis : (Applocker > Auteur).</string>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_YOUR_PASSWORD</key>
+	<string>Enter your password</string>
+	<key>APP_IS_LOCKED</key>
+	<string>%@ is locked</string>
+	<key>APP_IS_UNLOCKED</key>
+	<string>%@ is unlocked</string>
+	<key>WRONG_PASSWORD</key>
+	<string>Wrong password</string>
+	<key>WRONG_PHRASE</key>
+	<string>Wrong secret phrase</string>
+	<key>DISMISS</key>
+	<string>Dismiss</string>
+	<key>SECRET_PHRASE_INSTRUCTION</key>
+	<string>Enter secret phrase to reset password to 1234</string>
+	<key>RESET</key>
+	<string>Reset</string>
+	<key>SECRET_PHRASE</key>
+	<string>Secret Phrase</string>
+	<key>RESET_SUCCESS</key>
+	<string>Successfully changed password to 1234</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>TOGGLE</key>
+	<string>Toggle</string>
+	<key>TOGGLE_APPLOCKER</key>
+	<string>Toggle Applocker</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>WIFI_SET_SUCCESS</key>
+	<string>Current WiFi Network has been set</string>
+	<key>WIFI_SET_SUCCESS_INFO</key>
+	<string>You may need to exit the settings app and return to see the change</string>
+	<key>WIFI_NOT_CONNECTED</key>
+	<string>Not Connected to WiFi</string>
+	<key>WIFI_NOT_CONNECTED_INFO</key>
+	<string>Please connect to a WiFi network in order to set it in Applocker</string>
+	<key>LAUNCH</key>
+	<string>Launch</string>
+	<key>ENTER_PASSWORD_TO_UNLOCK</key>
+	<string>Enter your password to unlock it</string>
+	<key>ENTER_PASSWORD_TO_LOCK</key>
+	<string>Enter your password to lock it</string>
+	<key>LOCK</key>
+	<string>Lock</string>
+	<key>UNLOCK</key>
+	<string>Unlock</string>
+	<key>LAYOUT_LOCKED</key>
+	<string>Layout editing is locked</string>
+	<key>EDIT_LAYOUT</key>
+	<string>Edit Layout</string>
+	<key>FOLDER_IS_LOCKED</key>
+	<string>Folder %@ is locked</string>
+	<key>OPEN_FOLDER</key>
+	<string>Open Folder</string>
+</dict>
+</plist>

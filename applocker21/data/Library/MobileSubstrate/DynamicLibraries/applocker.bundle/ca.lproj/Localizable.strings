@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_YOUR_PASSWORD</key>
+	<string>Escriu la contrasenya</string>
+	<key>APP_IS_LOCKED</key>
+	<string>%@ està bloquejat</string>
+	<key>APP_IS_UNLOCKED</key>
+	<string>%@ està desbloquejat</string>
+	<key>WRONG_PASSWORD</key>
+	<string>Contrasenya errònia</string>
+	<key>WRONG_PHRASE</key>
+	<string>Frase secreta incorrecta</string>
+	<key>DISMISS</key>
+	<string>Desfés</string>
+	<key>SECRET_PHRASE_INSTRUCTION</key>
+	<string>Entra la frase secreta per reestablir la contrasenya a 1234</string>
+	<key>RESET</key>
+	<string>Resetejar</string>
+	<key>SECRET_PHRASE</key>
+	<string>Frase secreta</string>
+	<key>RESET_SUCCESS</key>
+	<string>La nova contrasenya és 1234</string>
+	<key>CANCEL</key>
+	<string>Cancel·la</string>
+	<key>TOGGLE</key>
+	<string>Activa</string>
+	<key>TOGGLE_APPLOCKER</key>
+	<string>Activa Applocker</string>
+	<key>PASSWORD</key>
+	<string>Contrasenya</string>
+	<key>WIFI_SET_SUCCESS</key>
+	<string>S'ha seleccionat al Wifi actual</string>
+	<key>WIFI_SET_SUCCESS_INFO</key>
+	<string>Per veure els canvis, surt de les opcions i torna a entrar-hi</string>
+	<key>WIFI_NOT_CONNECTED</key>
+	<string>No està connectat a cap Wifi</string>
+	<key>WIFI_NOT_CONNECTED_INFO</key>
+	<string>Connecti's a un Wifi per seleccionar-lo al AppLocker</string>
+	<key>LAUNCH</key>
+	<string>Obre</string>
+	<key>ENTER_PASSWORD_TO_UNLOCK</key>
+	<string>Escriu la contrasenya per desbloquejar</string>
+	<key>ENTER_PASSWORD_TO_LOCK</key>
+	<string>Escriu la contrasenya per bloquejar</string>
+	<key>LOCK</key>
+	<string>Bloqueja</string>
+	<key>UNLOCK</key>
+	<string>Desbloquejar</string>
+	<key>LAYOUT_LOCKED</key>
+	<string>L'edició de l'aspecte està bloquejada</string>
+	<key>EDIT_LAYOUT</key>
+	<string>Edita l'aspecte</string>
+	<key>FOLDER_IS_LOCKED</key>
+	<string>La carpeta %@ està bloquejada</string>
+	<key>OPEN_FOLDER</key>
+	<string>Obrir la carpeta</string>
+</dict>
+</plist>

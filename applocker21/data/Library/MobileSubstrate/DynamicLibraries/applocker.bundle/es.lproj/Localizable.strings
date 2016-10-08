@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_YOUR_PASSWORD</key>
+	<string>Ingrese su contraseña</string>
+	<key>APP_IS_LOCKED</key>
+	<string>%@ está bloqueada</string>
+	<key>APP_IS_UNLOCKED</key>
+	<string>%@ está desbloqueada</string>
+	<key>WRONG_PASSWORD</key>
+	<string>Contraseña incorrecta</string>
+	<key>WRONG_PHRASE</key>
+	<string>Frase secreta incorrecta</string>
+	<key>DISMISS</key>
+	<string>Omitir</string>
+	<key>SECRET_PHRASE_INSTRUCTION</key>
+	<string>Ingrese la frase secreta para reiniciar la contraseña a 1234</string>
+	<key>RESET</key>
+	<string>Cambiar</string>
+	<key>SECRET_PHRASE</key>
+	<string>Frase secreta</string>
+	<key>RESET_SUCCESS</key>
+	<string>La contraseña se cambió con éxito a 1234</string>
+	<key>CANCEL</key>
+	<string>Cancelar</string>
+	<key>TOGGLE</key>
+	<string>Habilitar</string>
+	<key>TOGGLE_APPLOCKER</key>
+	<string>Habilitar Applocker</string>
+	<key>PASSWORD</key>
+	<string>Contraseña</string>
+	<key>WIFI_SET_SUCCESS</key>
+	<string>La red WiFi actual ha sido agregada</string>
+	<key>WIFI_SET_SUCCESS_INFO</key>
+	<string>Es posible que necesite salir de la configuración y regresar para ver el cambio</string>
+	<key>WIFI_NOT_CONNECTED</key>
+	<string>No conectado a WiFi</string>
+	<key>WIFI_NOT_CONNECTED_INFO</key>
+	<string>Por favor conéctese a una red WiFi para agregarla a Applocker</string>
+	<key>LAUNCH</key>
+	<string>Iniciar</string>
+	<key>ENTER_PASSWORD_TO_UNLOCK</key>
+	<string>Ingrese la contraseña para desbloquear</string>
+	<key>ENTER_PASSWORD_TO_LOCK</key>
+	<string>Ingrese la contraseña para bloquear</string>
+	<key>LOCK</key>
+	<string>Bloquear</string>
+	<key>UNLOCK</key>
+	<string>Desbloquear</string>
+	<key>LAYOUT_LOCKED</key>
+	<string>La edición de la cuadrícula está bloqueada</string>
+	<key>EDIT_LAYOUT</key>
+	<string>Editar</string>
+	<key>FOLDER_IS_LOCKED</key>
+	<string>La carpeta %@ está bloqueada</string>
+	<key>OPEN_FOLDER</key>
+	<string>Abrir carpeta</string>
+</dict>
+</plist>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_YOUR_PASSWORD</key>
+	<string>הכנס את הסיסמה שלך</string>
+	<key>APP_IS_LOCKED</key>
+	<string>האפליקציה ‫%@‬ נעולה</string>
+
+	<key>WRONG_PASSWORD</key>
+	<string>סיסמה לא נכונה</string>
+	<key>APP_IS_UNLOCKED</key>
+	<string>האפליקציה ‫%@‬ לא נעולה</string>
+	<key>WRONG_PASSWORD</key>
+	<string>סיסמה לא נכונה</string>
+	<key>WRONG_PHRASE</key>
+	<string>משפט סודי לא נכון</string>
+	<key>DISMISS</key>
+	<string>בסדר</string>
+	<key>SECRET_PHRASE_INSTRUCTION</key>
+	<string>הכנס משפט סודי ע‫"‬מ לאפס את הסיסמה ל1234</string>
+	<key>RESET</key>
+	<string>אפס</string>
+	<key>SECRET_PHRASE</key>
+	<string>משפט סודי</string>
+	<key>RESET_SUCCESS</key>
+	<string>הסיסמה שונתה בהצלחה ל1234</string>
+	<key>CANCEL</key>
+	<string>בטל</string>
+	<key>TOGGLE</key>
+	<string>כבה‫/‬הדלק</string>
+	<key>TOGGLE_APPLOCKER</key>
+	<string>כבה‫/‬הדלק את Applocker</string>
+	<key>PASSWORD</key>
+	<string>סיסמה</string>
+	<key>WIFI_SET_SUCCESS</key>
+	<string>רשת אלחוטית נוכחית הוגדרה</string>
+	<key>WIFI_SET_SUCCESS_INFO</key>
+	<string>יכול להיות שתצטרך לצאת ולהכנס מההגדרות ע‫"‬מ לראות את השינוי</string>
+	<key>WIFI_NOT_CONNECTED</key>
+	<string>לא מחובר לרשת אלחוטית</string>
+	<key>WIFI_NOT_CONNECTED_INFO</key>
+	<string>אנא התחבר לרשת אלחוטית ע‫"‬מ להגדירה בApplocker</string>
+	<key>LAUNCH</key>
+	<string>הפעל</string>
+	<key>ENTER_PASSWORD_TO_UNLOCK</key>
+	<string>הכנס את סיסמתך ע‫"‬מ לפתוח אותה</string>
+	<key>ENTER_PASSWORD_TO_LOCK</key>
+	<string>הכנס את סיסמתך ע‫"‬מ לנעול אותה</string>
+	<key>LOCK</key>
+	<string>נעל</string>
+	<key>UNLOCK</key>
+	<string>פתח</string>
+	<key>LAYOUT_LOCKED</key>
+	<string>מיקום האייקונים נעול</string>
+	<key>EDIT_LAYOUT</key>
+	<string>ערוך מיקום</string>
+	<key>FOLDER_IS_LOCKED</key>
+	<string>התיקיה ‫%@‬ נעולה</string>
+	<key>OPEN_FOLDER</key>
+	<string>פתח תיקיה</string>
+</dict>
+</plist>

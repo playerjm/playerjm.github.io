@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>SETTINGS_TITLE</key>
+  <string>Inställningar</string>
+  <key>GENERAL_TITLE</key>
+  <string>Allmänt</string>
+  <key>ENABLED</key>
+  <string>Aktiverad</string>
+  <key>APPLICATION_LOCKING_TITLE</key>
+  <string>Applikation låsning</string>
+  <key>FOLDER_LOCKING_TITLE</key>
+  <string>Mapp låsning</string>
+  <key>RESET_PASSWORD_PHRASE_TITLE</key>
+  <string>Återställ lösenordsfras</string>
+  <key>MORE_TITLE</key>
+  <string>Mer</string>
+  <key>USER_GUIDE_TITLE</key>
+  <string>Användar guid</string>
+  <key>APPLOCKER_TOGGLES</key>
+  <string>Applocker toggles</string>
+  <key>FOLLOW_ME_FOR_UPDATES</key>
+  <string>Följ mig för uppdateringar</string>
+  <key>SUPPORT_IN_CYDIA</key>
+  <string>Hjälp (i Cydia)</string>
+  <key>COPYRIGHT_TEXT</key>
+  <string>2.1 © 2011-2012 Applocker, Ori Kadosh</string>
+  <key>GENERAL_FOOTER</key>
+  <string>Sessionens lås - när något blir upplåst, är ally upplåst och lås upp först after enheten blir låst.
+    Nummeriskt tangentbord kräver nummer lösenord</string>
+  <key>SESSION_LOCKING</key>
+  <string>Sessions låsning</string> 
+  <key>LOCK_SETTINGS</key>
+  <string>Låst inställningar</string>
+  <key>LOCK_DEVICE</key>
+  <string>Lås enheten om fel</string>
+  <key>AUTO_LAUNCH</key>
+  <string>Automatisk start</string>
+  <key>ANIMATION_TYPE</key>
+  <string>Animations typ</string>
+  <key>STANDARD_ANIMATION</key>
+  <string>Standard</string>
+  <key>COOL_ANIMATION</key>
+  <string>Cool</string>
+  <key>NUMERIC_KEYPAD</key>
+  <string>Nummeriskt tangentbord</string>
+  <key>PASSWORD_LABEL</key>
+  <string>Lösenord</string>
+  <key>PLAIN_TEXT_PASSWORD_WARNING</key>
+  <string>Ditt lösenord sparas i ren text.</string>
+  <key>APPLICATIONS_TITLE</key>
+  <string>Applikationer</string>
+  <key>APPLICATIONS_FOOTER</key>
+  <string>Invertera markering - låsa utvalda applikationer och lås ovalda.
+Du kan även ange ikonen redigeringsläget (skak läge) och lås apps därifrån! Du behöver inte komma hit varje gång.</string>
+  <key>INVERT_SELECTION</key>
+  <string>Inverterat val</string>
+  <key>LOCK_FROM_JIGGLE_MODE</key>
+  <string>Lås från Skak Läge</string>
+  <key>ADVANCED_TITLE</key>
+  <string>Avancerat</string>
+  <key>DONT_LOCK_FROM</key>
+  <string>Lås inte startande appar från</string>
+  <key>DONT_LOCK_FROM_DESCRIPTION</key>
+  <string>Applikation lanseringen kommer INTE låsas från dessa platser.
+Applikations start är i grunden "allt annat" förutom startskärmen spotlight (springboard), multitasking switcher och banners anmälan.
+Om du inaktiverar något och hålla efter app lansering på den låser att APP ändå.</string>
+  <key>MULTITASKING_SWITCHER</key>
+  <string>Multitasking Switcher</string>
+  <key>NOTIFICATION_BANNERS</key>
+  <string>Notification Banners</string>
+  <key>POST_APP_LAUNCH</key>
+  <string>Applikations Start</string>
+  <key>FOLDER_LOCKING_FOOTER</key>
+  <string>Skriv * exakt * (skiftlägeskänsligt) mappnamn du vill låsa.
+Låsa en mapp låses inte ansökningarna i den. Använd "Ansökan Låsning" för det.</string>
+  <key>FOLDER_NAME</key>
+  <string>Mapp namn</string>
+  <key>RESET_PASSWORD_PHRASE_FOOTER</key>
+  <string>Om du glömmer ditt lösenord och ange ett felaktigt en, kommer du bli tillfrågad om denna fras för att återställa lösenordet till 1234.</string>
+  <key>SECRET_PHRASE</key>
+  <string>Hemlig fras</string>
+  <key>LAYOUT_LOCKING_TITLE</key>
+  <string>Layout Låsning</string>
+  <key>LAYOUT_LOCKING_FOOTER</key>
+  <string>Sätt på för att låsa ikon ändring (jiggle mode).</string>
+  <key>DISABLE_ON_WIFI_TITLE</key>
+  <string>Stäng av Applocker på vissa WiFi</string>
+  <key>DISABLE_ON_WIFI_FOOTER</key>
+  <string>Ange namnet på det trådlösa nätverket på en plats du litar på, som ditt hem, så att starta program hemma kommer inte att kräva ett lösenord</string>
+  <key>WIFI_NETWORK</key>
+  <string>WiFi Nätverk</string>
+  <key>SET_WIFI</key>
+  <string>sett in aktuellt WiFi</string>
+  <key>DISABLE_PHOTOS_IN_CAMERA</key>
+  <string>Avaktivera foton i kamera</string>
+  <key>DISABLE_PHOTOS_FOOTER</key>
+  <string>Slå på för att inaktivera bilder åtkomst från kamera app.
+Det är om du vill begränsa åtkomsten till bilder utan att ange ditt lösenord varje gång du vill ta en bild.
+iOS 5 bara. respring för att applicera.</string>
+  <key>USER_GUIDE_TITLE</key>
+  <string>Användar Guide</string>
+  <key>USER_GUIDE_FOOTER</key>
+  <string>Hur återställer jag mitt lösenord?
+Annat än att använda den inbyggda Återställ lösenord mekanism eller ta bort och installera om AppLocker från Cydia, kan du ta bort denna fil:
+/var/mobile/Library/Preferences/com.nnfyrbsnss.applocker.plist
+
+Vad är "Sessions Låsning"?
+Aktivera sessions låsning så kan du snabbt växla mellan låsta program utan att ange ditt lösenord varje gång. Du anger ditt lösenord första gången du startar ett låst app (eller öppna en låst mapp eller sätta enheten till ikonen redigeringsläge), efter detta kommer inte Applocker att fråga efter ditt lösenord igen tills du låser enheten och sedan ditt program blir låst igen.
+
+Vad är "Lock Enheten misslyckas"?
+Detta låser enheten om fel lösenord anges. Uppenbarligen konflikter med Auto Launch. Lock enheten misslyckas kommer att ignoreras om Auto Launch är på.
+
+Vad är "Auto Launch"?
+Auto Launch - som namnet antyder - Auto lanserar app i fråga så snart som rätt lösenord anges. Detta tar bort den "Launch"-knappen.
+
+Varför kan numeriska tangentbordet inte visas för mig?
+Se ditt lösenord är numeriskt. Att ens ha en bokstav i lösenordet kommer att inaktivera numeriska tangentbordet för att ge dig möjlighet att ange rätt lösenord.
+
+Några andra frågor? Skicka ett mail via Cydia (Applocker > Author).</string>
+</dict>
+</plist>

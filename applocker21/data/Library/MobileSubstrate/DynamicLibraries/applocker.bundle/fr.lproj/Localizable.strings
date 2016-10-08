@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_YOUR_PASSWORD</key>
+	<string>Entrez votre mot de passe</string>
+	<key>APP_IS_LOCKED</key>
+	<string>%@ est vérouillé</string>
+	<key>APP_IS_UNLOCKED</key>
+	<string>%@ est déverrouillé</string>
+	<key>WRONG_PASSWORD</key>
+	<string>Mot de passe incorrect</string>
+	<key>WRONG_PHRASE</key>
+	<string>Phrase secrète incorrecte</string>
+	<key>DISMISS</key>
+	<string>Fermer</string>
+	<key>SECRET_PHRASE_INSTRUCTION</key>
+	<string>Entrez la phrase secrète pour réinitialiser le mot de passe à 1234</string>
+	<key>RESET</key>
+	<string>Réinitialiser</string>
+	<key>SECRET_PHRASE</key>
+	<string>Phrase secrète</string>
+	<key>RESET_SUCCESS</key>
+	<string>Changé avec succès en 1234</string>
+	<key>CANCEL</key>
+	<string>Annuler</string>
+	<key>TOGGLE</key>
+	<string>Toggle</string>
+	<key>TOGGLE_APPLOCKER</key>
+	<string>Toogle d'AppLocker</string>
+	<key>PASSWORD</key>
+	<string>Mot de passe</string>
+	<key>WIFI_SET_SUCCESS</key>
+	<string>Le Wi-Fi courant à été déterminé</string>
+	<key>WIFI_SET_SUCCESS_INFO</key>
+	<string>Vous devez retourner sur le springboard puis dans les réglages pour appliquer ces changements !</string>
+	<key>WIFI_NOT_CONNECTED</key>
+	<string>Pas connecté en Wi-Fi</string>
+	<key>WIFI_NOT_CONNECTED_INFO</key>
+	<string>Merci de vous connecter à un réseau Wi-Fi</string>
+	<key>LAUNCH</key>
+	<string>Lancer</string>
+	<key>ENTER_PASSWORD_TO_UNLOCK</key>
+	<string>Entrez votre mot de passe pour le déverrouiller</string>
+	<key>ENTER_PASSWORD_TO_LOCK</key>
+	<string>Entrez votre mot de passe pour le verrouiller</string>
+	<key>LOCK</key>
+	<string>Verrouiller</string>
+	<key>UNLOCK</key>
+	<string>Déverrouiller</string>
+	<key>LAYOUT_LOCKED</key>
+	<string>La mise en place des icônes est verrouillée</string>
+	<key>EDIT_LAYOUT</key>
+	<string>Editer la mise en place des icônes</string>
+	<key>FOLDER_IS_LOCKED</key>
+	<string>Le Dossier %@ est verrouillé</string>
+	<key>OPEN_FOLDER</key>
+	<string>Ouvrir le dossier</string>
+</dict>
+</plist>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>Configuración</string>
+	<key>GENERAL_TITLE</key>
+	<string>General</string>
+	<key>ENABLED</key>
+	<string>Habilitado</string>
+	<key>APPLICATION_LOCKING_TITLE</key>
+	<string>Bloqueado de aplicaciones</string>
+	<key>FOLDER_LOCKING_TITLE</key>
+	<string>Bloqueo de carpetas</string>
+	<key>RESET_PASSWORD_PHRASE_TITLE</key>
+	<string>Cambiar frase secreta</string>
+	<key>MORE_TITLE</key>
+	<string>Más</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Guía del usuario</string>
+	<key>APPLOCKER_TOGGLES</key>
+	<string>Interruptores de Applocker</string>
+	<key>FOLLOW_ME_FOR_UPDATES</key>
+	<string>Sígame para actualizaciones</string>
+	<key>SUPPORT_IN_CYDIA</key>
+	<string>Soporte (en Cydia)</string>
+	<key>COPYRIGHT_TEXT</key>
+	<string>2.1 © 2011-2012 Applocker, Ori Kadosh. Traducción al Español por Eduardo Ramírez Acosta (@era506).</string>
+	<key>GENERAL_FOOTER</key>
+	<string>Desbloqueo por sesión - una vez que algo es desbloqueado, todo es desbloqueado y solo se bloquea de nuevo al bloquear el dispositivo.
+		Teclado numérico requiere de una contraseña numérica</string>
+	<key>SESSION_LOCKING</key>
+	<string>Desbloqueo por sesión</string> 
+	<key>LOCK_SETTINGS</key>
+	<string>Bloquear configuración</string>
+	<key>LOCK_DEVICE</key>
+	<string>Bloquear dispositivo al fallar</string>
+	<key>AUTO_LAUNCH</key>
+	<string>Inicio automático</string>
+	<key>ANIMATION_TYPE</key>
+	<string>Tipo de animación</string>
+	<key>STANDARD_ANIMATION</key>
+	<string>Estándar</string>
+	<key>COOL_ANIMATION</key>
+	<string>Atractiva</string>
+	<key>NUMERIC_KEYPAD</key>
+	<string>Teclado numérico</string>
+	<key>PASSWORD_LABEL</key>
+	<string>Contraseña</string>
+	<key>PLAIN_TEXT_PASSWORD_WARNING</key>
+	<string>Su contraseña es almacenada en texto plano.</string>
+	<key>APPLICATIONS_TITLE</key>
+	<string>Aplicaciones</string>
+	<key>APPLICATIONS_FOOTER</key>
+	<string>Invertir selección - desbloquear aplicaciones elegidas y bloquear las demás.
+También puede ingresar en el modo de edición de íconos (íconos agitándose) y bloquear aplicaciones desde ahí mismo! No es necesario entrar aquí cada vez.</string>
+	<key>INVERT_SELECTION</key>
+	<string>Invertir selección</string>
+	<key>LOCK_FROM_JIGGLE_MODE</key>
+	<string>Bloquear en edición de íconos</string>
+	<key>ADVANCED_TITLE</key>
+	<string>Avanzado</string>
+	<key>DONT_LOCK_FROM</key>
+	<string>No bloquear aplicaciones iniciadas desde</string>
+	<key>DONT_LOCK_FROM_DESCRIPTION</key>
+	<string>Aplicaciones iniciadas en estos lugares NO serán bloqueadas.
+Post-inicio de la aplicación es básicamente "todo lo demás" aparte de la pantalla de inicio, Spotlight, aplicaciones recientes y alertas de notificación. 
+Si deshabilita algo y mantiene Post-inicio de aplicación encendido, la aplicación se bloqueará de todas maneras.</string>
+	<key>MULTITASKING_SWITCHER</key>
+	<string>Aplicaciones recientes</string>
+	<key>NOTIFICATION_BANNERS</key>
+	<string>Alertas de notificación</string>
+	<key>POST_APP_LAUNCH</key>
+	<string>Post-inicio de aplicación</string>
+	<key>FOLDER_LOCKING_FOOTER</key>
+	<string>Ingrese el nombre *exacto* (sensitivo a mayúsculas) de la carpeta que desea bloquear.
+Bloquear una carpeta no bloquea las aplicaciones dentro de ella. Utilice "Bloqueo de aplicaciones" para ello.</string>
+	<key>FOLDER_NAME</key>
+	<string>Nombre de la carpeta</string>
+	<key>RESET_PASSWORD_PHRASE_FOOTER</key>
+	<string>Si olvida su contraseña e ingresa una incorrecta, se le pedirá esta frase para reiniciar la contraseña a 1234.</string>
+	<key>SECRET_PHRASE</key>
+	<string>Frase secreta</string>
+	<key>LAYOUT_LOCKING_TITLE</key>
+	<string>Bloqueao de cuadrícula</string>
+	<key>LAYOUT_LOCKING_FOOTER</key>
+	<string>Encienda para bloquear la edición de la cuadrícula de la pantalla de inicio (íconos agitándose).</string>
+	<key>DISABLE_ON_WIFI_TITLE</key>
+	<string>Deshabilitar Applocker en una red WiFi específica</string>
+	<key>DISABLE_ON_WIFI_FOOTER</key>
+	<string>Ingrese el nombre de una red WiFi de un lugar de confianza, como su hogar, de manera que aplicaciones inicias en él no requerirán contraseña</string>
+	<key>WIFI_NETWORK</key>
+	<string>Red WiFi</string>
+	<key>SET_WIFI</key>
+	<string>Agregar red WiFi actual</string>
+	<key>DISABLE_PHOTOS_IN_CAMERA</key>
+	<string>Deshabilitar Fotos en Cámara</string>
+	<key>DISABLE_PHOTOS_FOOTER</key>
+	<string>Encienda para deshabilitar acceso a fotografías desde la aplicación de la Cámara.
+Esto es útil si desea restringir el acceso a sus fotografías existentes sin necesidad de ingresar la contraseña cada vez que desea abrir la aplicación de la Cámara.
+Para iOS 5 únicamente. Reinicie Springboard (respring) para aplicar.</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Guía del usuario</string>
+	<key>USER_GUIDE_FOOTER</key>
+	<string>¿Cómo reinicio mi contraseña?
+Además de utilizar el mecanismo interno para reiniciar la contraseña o desinstalar y reinstalar Applocker desde Cydia, puede borrar este archivo también: 
+/var/mobile/Library/Preferences/com.nnfyrbsnss.applocker.plist
+
+¿Qué es 'Desbloqueo por sesión'?
+El habilitar bloqueo por sesión le permite cambiar rápidamente entre aplicaciones bloqueadas sin ingresar su contraseña cada vez. Usted ingresa su contraseña la primera vez que inicia una aplicación bloqueada (o abre una carpeta bloqueada o ingresa el dispositivo en modo de edición de íconos), luego de ello Applocker no le pedirá más su contraseña hasta que el dispositivo sea bloqueado y entonces sus aplicaciones volverán a ser bloqueadas.
+
+¿Qué es 'Bloquear dispositivo al fallar'?
+Esta opción bloquea su dispositivo si una contraseña incorrecta es ingresada. Obviamente esto entra en conflicto con 'Inicio automático'. 'Bloquear dispositivo al fallar' es ignorado cuando 'Inicio automático' está encendido.
+
+¿Qué es 'Inicio automático'?
+Inicio automático - como lo sugiere su nombre - inicia una aplicación automáticamente tan pronto como la contraseña correcta es ingresada. Esto remueve el botón de "Iniciar".
+
+¿Por qué el teclado numérico no es mostrado?
+Asegúrese que su contraseña es numérica. Tener incluso una sola letra en la contraseña deshabilitará el teclado numérico para permitirle ingresar la contraseña correcta.
+
+¿Alguna otra pregunta? Envíeme una correo electrónico a través de Cydia (Applocker > Autor).</string>
+</dict>
+</plist>

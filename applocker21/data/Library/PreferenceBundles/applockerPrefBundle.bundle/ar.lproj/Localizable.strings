@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>الإعدادات</string>
+	<key>GENERAL_TITLE</key>
+	<string>عام</string>
+	<key>ENABLED</key>
+	<string>تفعيل</string>
+	<key>APPLICATION_LOCKING_TITLE</key>
+	<string>قفل التطبيقات</string>
+	<key>FOLDER_LOCKING_TITLE</key>
+	<string>قفل المجلدات</string>
+	<key>RESET_PASSWORD_PHRASE_TITLE</key>
+	<string>إعادة تعيين عبارة كلمة السر</string>
+	<key>MORE_TITLE</key>
+	<string>مزيد</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>دليل المستخدم</string>
+	<key>APPLOCKER_TOGGLES</key>
+	<string>Applocker مفعلات</string>
+	<key>FOLLOW_ME_FOR_UPDATES</key>
+	<string>إتبعني للحصول على التحديثات</string>
+	<key>SUPPORT_IN_CYDIA</key>
+	<string>الدعم الفني (في سيديا)</string>
+	<key>COPYRIGHT_TEXT</key>
+	<string>2.1 © 2011-2012 Applocker, Ori Kadosh</string>
+	<key>GENERAL_FOOTER</key>
+	<string>فترة القفل - حالما تقوم بفتح قفل أحد التطبيقات, كل شيء سيكون مفتوحا حتى تقوم بقفل الجهاز كليا.
+		لوحة المفاتيح الرقمية تحتاج أن تكون كلمة السر مكونة من أرقام فقط.</string>
+	<key>SESSION_LOCKING</key>
+	<string>فترة القفل</string> 
+	<key>LOCK_SETTINGS</key>
+	<string>قفل الإعدادات</string>
+	<key>LOCK_DEVICE</key>
+	<string>قفل الجهاز في حالة الفشل</string>
+	<key>AUTO_LAUNCH</key>
+	<string>إطلاق التطبيق بشكل تلقائي</string>
+	<key>ANIMATION_TYPE</key>
+	<string>نوع الحركة</string>
+	<key>STANDARD_ANIMATION</key>
+	<string>عادي</string>
+	<key>COOL_ANIMATION</key>
+	<string>رائع</string>
+	<key>NUMERIC_KEYPAD</key>
+	<string>لوحة مفاتيح رقمية</string>
+	<key>PASSWORD_LABEL</key>
+	<string>كلمة السر</string>
+	<key>PLAIN_TEXT_PASSWORD_WARNING</key>
+	<string>كلمة السر الخاصة بك محفوظة في نص عادي</string>
+	<key>APPLICATIONS_TITLE</key>
+	<string>التطبيقات</string>
+	<key>APPLICATIONS_FOOTER</key>
+	<string>إختيار عكسي - فتح قفل التطبيقات المختارة وقفل الغير مختارة.
+كما يمكنك الذهاب إلى نمط تحرير الأيكونات في الصفحة الرئيسية وقفل البرامج من هناك.</string>
+	<key>INVERT_SELECTION</key>
+	<string>إختيار عكسي</string>
+	<key>LOCK_FROM_JIGGLE_MODE</key>
+	<string>قفل من نمط تحرير الأيكونات</string>
+	<key>ADVANCED_TITLE</key>
+	<string>متقدم</string>
+	<key>DONT_LOCK_FROM</key>
+	<string>لا تقفل إطلاق التطبيقات من</string>
+	<key>DONT_LOCK_FROM_DESCRIPTION</key>
+	<string>إطلاق التطبيقات سوف لن يكون مقفل من هذه الأماكن.
+الإطلاق ما بعد بدء التطبيق هو كل شيء آخر غير الصفحة الرئيسية, صفحة البحث, مدير تعدد التطبيقات ورايات الإشعارات.
+إذا قمت بتعطيل أحد الخيارات وابقيت الإطلاق ما بعد بدء التطبيق مفغلا فإن هذا سوف يقوم بقفل التطبيق على الرغم.
+</string>
+	<key>MULTITASKING_SWITCHER</key>
+	<string>مدير تعدد التطبيقات</string>
+	<key>NOTIFICATION_BANNERS</key>
+	<string>رايات الإشعارات</string>
+	<key>POST_APP_LAUNCH</key>
+	<string>الإطلاق ما بعد بدء التطبيق</string>
+	<key>FOLDER_LOCKING_FOOTER</key>
+	<string>أدخل أسم المجلد الذي تريد قفله تماما كما هو.
+قفل المجلد سوف لن يقوم بقفل التطبيقات الموجودة داخل ذلك المجلد.</string>
+	<key>FOLDER_NAME</key>
+	<string>إسم المجلد</string>
+	<key>RESET_PASSWORD_PHRASE_FOOTER</key>
+	<string>	إذا قمت بنسيان كلمة السر وأدخلت كلمة سر خاطئة, سوف يطلب منك إدخال هذه العبارة من أجل إعادة ضبط كلمة السر.</string>
+	<key>SECRET_PHRASE</key>
+	<string>العبارة السرية</string>
+	<key>LAYOUT_LOCKING_TITLE</key>
+	<string>قفل مواضع الأيكونات</string>
+	<key>LAYOUT_LOCKING_FOOTER</key>
+	<string>قم بتفعيل هذا الخيارلقفل مواضع الأيكونات في الصفحة الرئيسية.</string>
+	<key>DISABLE_ON_WIFI_TITLE</key>
+	<string>على قسم من شبكات الواي فاي Applocker تعطيل</string>
+	<key>DISABLE_ON_WIFI_FOOTER</key>
+	<string>قم بإدخل اسم شبكة الواي فاي التي تثق بها, مثلا شبكة منزلك, كي يكون إطلاق التطبيقات داخل المنزل بدون طلب كلمة السر.</string>
+	<key>WIFI_NETWORK</key>
+	<string>شبكة الواي فاي</string>
+	<key>SET_WIFI</key>
+	<string>إدخال شبكة الواي فاي الحالية</string>
+	<key>DISABLE_PHOTOS_IN_CAMERA</key>
+	<string>تعطيل الصور من الكاميرا</string>
+	<key>DISABLE_PHOTOS_FOOTER</key>
+	<string>قم بتفعيل هذا الخيار لتعطيل الدخول على الصور عن طريق تطبيق الكاميرا.
+هذا من أجل منع الدخول على الصور بدون إدخال كلمة السر في كل مرة تريد أن تلتقط صورة.
+iOS 5 فقط.</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>دليل المستخدم</string>
+	<key>USER_GUIDE_FOOTER</key>
+	<string>كيف أقوم بإعادة تعيين كلمة السر؟
+غير عن طريق إستخدام الطريقة الذاتية الموجودة في داخل Applocker أو مسح وإعادة تثبيت Applocker عن طريق سيديا, يمكنك أيضا مسح هذا الملف:
+/var/mobile/Library/Preferences/com.nnfyrbsnss.applocker.plist
+
+ماهو "فترة القفل"؟
+تفعيل فترة القفل يمكنك من التغيير بين التطبيقات المقفلة بسرعة دون الحاجة إلى إدخال كلمة السر في كل مرة. تقوم بإدخال كلمة السر لأول مرة عند إطلاق تطبيق مقفل (او فتح مجلد مقفل او وضع الجهاز في نمط تحرير الأيكونات), بعد ذلك Applocker لن يقوم بالسؤال عن كلمة السر حتى تقوم بقفل الجهاز.
+
+ماهو "قفل الجهاز عند الفشل"؟
+هذا الخيار سوف يقوم بقفل الجهاز اذا أدخلت كلمة سر خاطئة. واضح انه يتعارض مع "إطلاق التطبيق بشكل تلقائي". قفل الجهاز عند الفشل سوف يتم تجاهله إذا كان خيار إطلاق التطبيق بشكل تلقائي مفعل.
+
+ماهو "إطلاق التطبيق بشكل تلقائي"؟
+إطلاق التطبيق بشكل تلقائي - كما يقترح الإسم - يقوم بإطلاق التطبيق حالما تقوم بإدخال كلمة السر. هذا يقوم بإزالة زر الإطلاق.
+
+لماذا لوحة المفاتيح الرقمية لاتظهر لي؟
+قم بالتأكد من إن كلمة السر مكونة من أرقام فقط. وجود حتى لو حرف واحد فقط سيقوم بتعطيل لوحة المفاتيح الرقمية من أجل أن يعطيك الخيار لإدخال كلمة السر الصحيحة.
+
+هل لديك المزين من الأسئلة؟ إتصل بي عن طريق سيديا (Applocker > Author).</string>
+</dict>
+</plist>

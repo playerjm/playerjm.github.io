@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>Settings</string>
+	<key>GENERAL_TITLE</key>
+	<string>General</string>
+	<key>ENABLED</key>
+	<string>Enabled</string>
+	<key>APPLICATION_LOCKING_TITLE</key>
+	<string>Application Locking</string>
+	<key>FOLDER_LOCKING_TITLE</key>
+	<string>Folder Locking</string>
+	<key>RESET_PASSWORD_PHRASE_TITLE</key>
+	<string>Reset Password Phrase</string>
+	<key>MORE_TITLE</key>
+	<string>More</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>User Guide</string>
+	<key>APPLOCKER_TOGGLES</key>
+	<string>Applocker Toggles</string>
+	<key>FOLLOW_ME_FOR_UPDATES</key>
+	<string>Follow Me For Updates</string>
+	<key>SUPPORT_IN_CYDIA</key>
+	<string>Support (in Cydia)</string>
+	<key>COPYRIGHT_TEXT</key>
+	<string>2.1 © 2011-2012 Applocker, Ori Kadosh</string>
+
+	<key>GENERAL_FOOTER</key>
+	<string>Session Locking - once something gets unlocked, everything is unlocked and relock only after the device gets locked.
+		Numeric keypad requires numeric password</string>
+	<key>SESSION_LOCKING</key>
+	<string>Session Locking</string> 
+		<!-- Feel free to translate "Session locking" to whatever you think appropriate in your own language, myself I translate it to "Smart locking" in Hebrew -->
+	<key>LOCK_SETTINGS</key>
+	<string>Lock Settings</string>
+	<key>LOCK_DEVICE</key>
+	<string>Lock Device on Fail</string>
+	<key>AUTO_LAUNCH</key>
+	<string>Auto Launch</string>
+	<key>ANIMATION_TYPE</key>
+	<string>Animation Type</string>
+	<key>STANDARD_ANIMATION</key>
+	<string>Standard</string>
+	<key>COOL_ANIMATION</key>
+	<string>Cool</string>
+	<key>NUMERIC_KEYPAD</key>
+	<string>Numeric Keypad</string>
+	<key>PASSWORD_LABEL</key>
+	<string>Password</string>
+	<key>PLAIN_TEXT_PASSWORD_WARNING</key>
+	<string>Your password is stored in plain text.</string>
+
+
+
+
+	<key>APPLICATIONS_TITLE</key>
+	<string>Applications</string>
+	<key>APPLICATIONS_FOOTER</key>
+	<string>Invert Selection - unlock chosen apps and lock unchosen.
+You can also enter icon editing mode (jiggle mode) and lock apps from there! No need to come here every time.</string>
+	<key>INVERT_SELECTION</key>
+	<string>Invert Selection</string>
+
+	<key>LOCK_FROM_JIGGLE_MODE</key>
+	<string>Lock From Jiggle Mode</string>
+	<key>ADVANCED_TITLE</key>
+	<string>Advanced</string>
+
+
+
+	<key>DONT_LOCK_FROM</key>
+	<string>Don't Lock Launching apps from</string>
+
+	<key>DONT_LOCK_FROM_DESCRIPTION</key>
+	<string>Application launching will NOT be locked from these places.
+
+Post app launch is basically "everything else" besides the home screen, spotlight (springboard), multitasking switcher and notification banners.
+If you disable something and keep post app launch on it will lock that app nevertheless.</string>
+	<key>MULTITASKING_SWITCHER</key>
+	<string>Multitasking Switcher</string>
+	<key>NOTIFICATION_BANNERS</key>
+	<string>Notification Banners</string>
+	<key>POST_APP_LAUNCH</key>
+	<string>Post App Launch</string>
+
+	<key>FOLDER_LOCKING_FOOTER</key>
+	<string>Enter *exact* (case sensitive) folder name you want to be locked.
+Locking a folder does not lock the applications in it. Use 'Application Locking' for that.</string>
+	<key>FOLDER_NAME</key>
+	<string>Folder Name</string>
+	<key>RESET_PASSWORD_PHRASE_FOOTER</key>
+	<string>If you forget your password and enter a wrong one, you will be asked for this phrase to reset the password to 1234.</string>
+
+	<key>SECRET_PHRASE</key>
+	<string>Secret Phrase</string>
+
+	<key>LAYOUT_LOCKING_TITLE</key>
+	<string>Layout Locking</string>
+
+	<key>LAYOUT_LOCKING_FOOTER</key>
+	<string>Turn on to lock home screen icon layout editing (jiggle mode).</string>
+
+	<key>DISABLE_ON_WIFI_TITLE</key>
+	<string>Disable Applocker on a Certain WiFi</string>
+
+	<key>DISABLE_ON_WIFI_FOOTER</key>
+	<string>Enter the name of the wifi network of a place you trust, like your home, so launching apps while at home won't require a password</string>
+
+	<key>WIFI_NETWORK</key>
+	<string>WiFi Network</string>
+
+	<key>SET_WIFI</key>
+	<string>Set Current WiFi</string>
+
+
+	<key>DISABLE_PHOTOS_IN_CAMERA</key>
+	<string>Disable Photos in Camera</string>
+
+	<key>DISABLE_PHOTOS_FOOTER</key>
+	<string>Turn on to disable photos access from the camera app.
+This is if you want to restrict access to photos without entering your password every time you want to take a picture.
+iOS 5 only. respring to apply.</string>
+
+
+	<key>USER_GUIDE_TITLE</key>
+	<string>User Guide</string>
+
+
+	<key>USER_GUIDE_FOOTER</key>
+	<string>How do I reset my password?
+Other than using the built in reset password mechanism or deleting and reinstalling Applocker from Cydia, you can delete this file:
+/var/mobile/Library/Preferences/com.nnfyrbsnss.applocker.plist
+
+What is 'Session Locking'?
+Enabling session locking allows you to quickly switch between locked apps without entering your password each time. You enter your password the first time you launch a locked app (or open a locked folder or put the device into icon editing mode), after this Applocker won't ask for your password again until you lock your device and then your apps gets locked again.
+
+What is 'Lock Device on Fail'?
+This locks your device if the wrong password is entered. Obviously conflicts with Auto Launch. Lock device on fail will be ignored if auto launch is on.
+
+What is 'Auto Launch'?
+Auto launch - as its name suggests - auto launches the app in question as soon as the right password is entered. This removes the 'Launch' button.
+
+Why numeric keypad isn't showing for me?
+Make sure your password is numeric. Having even one letter in the password will disable numeric keypad in order to give you the option to enter the right password.
+
+Any other question? Send me an email via Cydia (Applocker > Author).</string>
+
+
+</dict>
+</plist>

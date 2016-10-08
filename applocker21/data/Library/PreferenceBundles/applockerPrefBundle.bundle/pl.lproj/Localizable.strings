@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>Ustawienia</string>
+	<key>GENERAL_TITLE</key>
+	<string>Ogólne</string>
+	<key>ENABLED</key>
+	<string>Włczone</string>
+	<key>APPLICATION_LOCKING_TITLE</key>
+	<string>Blokowanie Aplikacji</string>
+	<key>FOLDER_LOCKING_TITLE</key>
+	<string>Blokowanie Folderów</string>
+	<key>RESET_PASSWORD_PHRASE_TITLE</key>
+	<string>Bezpieczne wyrażenie resetujące hasło</string>
+	<key>MORE_TITLE</key>
+	<string>Więcej</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Instrukcja obsługi</string>
+	<key>APPLOCKER_TOGGLES</key>
+	<string>Przełączniki Applocker</string>
+	<key>FOLLOW_ME_FOR_UPDATES</key>
+	<string>Śledź mnie dla aktualizacji</string>
+	<key>SUPPORT_IN_CYDIA</key>
+	<string>Wsparcie (w Cydia)</string>
+	<key>COPYRIGHT_TEXT</key>
+	<string>2.1 © 2011-2012 Applocker, Ori Kadosh</string>
+	<key>GENERAL_FOOTER</key>
+	<string>Blokada sesji - jak coś raz zostanie odblokowane, wszystko będzie odblokowane i zablokowane dopiero jak urządzenie zostanie zablokowane.
+		Klawiatura numeryczna wymaga numerycznej hasła</string>
+	<key>SESSION_LOCKING</key>
+	<string>Blokada sesji</string> 
+	<key>LOCK_SETTINGS</key>
+	<string>Ustawienia blokady</string>
+	<key>LOCK_DEVICE</key>
+	<string>Zablokuj urządzenie w razie błędnie wpisanego hasła</string>
+	<key>AUTO_LAUNCH</key>
+	<string>Automatyczne uruchamianie</string>
+	<key>ANIMATION_TYPE</key>
+	<string>Typ animacji</string>
+	<key>STANDARD_ANIMATION</key>
+	<string>Standardowa</string>
+	<key>COOL_ANIMATION</key>
+	<string>Cool</string>
+	<key>NUMERIC_KEYPAD</key>
+	<string>Klawiatura numeryczna</string>
+	<key>PASSWORD_LABEL</key>
+	<string>Hasło</string>
+	<key>PLAIN_TEXT_PASSWORD_WARNING</key>
+	<string>Twoje hasło jest przechowywane w postaci zwykłego tekstu.</string>
+	<key>APPLICATIONS_TITLE</key>
+	<string>Aplikacje</string>
+	<key>APPLICATIONS_FOOTER</key>
+	<string>Odwróć zaznaczenie - odblokowuje wybrane aplikacje i blokuje niewybrane.
+Można też wejść w tryb edycji (tryb przesuwania ikon) i stamtąd zablokować aplikacje! Nie trzeba tu za każdym razem.</string>
+	<key>INVERT_SELECTION</key>
+	<string>Odwróć zaznaczenie</string>
+	<key>LOCK_FROM_JIGGLE_MODE</key>
+	<string>Zablokuj w trybie przesuwania ikon</string>
+	<key>ADVANCED_TITLE</key>
+	<string>Zaawansowane</string>
+	<key>DONT_LOCK_FROM</key>
+	<string>Nie blokuj aplikacji uruchamianych z </string>
+	<key>DONT_LOCK_FROM_DESCRIPTION</key>
+	<string>Aplikacje uruchamiane z tego miejsca NIE będą blokowane.
+Po uruchomieniu aplikacji jest właściwie "wszystkim innym" poza ekranem początkowym, spotlight (springboard), przełącznik wielozadaniowości (multitasking) i banery powiadamiające.
+Jeśli coś wyłączysz i zachowasz uruchamianie aplikacji zablokuje ją mimo to.</string>
+	<key>MULTITASKING_SWITCHER</key>
+	<string>Przełącznik wielozadaniowości (multitasking)</string>
+	<key>NOTIFICATION_BANNERS</key>
+	<string>Banery powiadomień</string>
+	<key>POST_APP_LAUNCH</key>
+	<string>Po uruchomieniu aplikacji</string>
+	<key>FOLDER_LOCKING_FOOTER</key>
+	<string>Wpisz *dokładną* (wielkość liter) nazwę folderu, który chcesz zablokować.
+Zablokowanie folderu nie blokuje aplikacji w nim zawartych. Do tego użyj 'Blokowania aplikacji'.</string>
+	<key>FOLDER_NAME</key>
+	<string>Nazwa Folderu</string>
+	<key>RESET_PASSWORD_PHRASE_FOOTER</key>
+	<string>Jeśli zapomnisz hasła i wprowadzisz niewłaściwe, zostaniesz poproszony o to bezpieczne wyrażenie, aby zresetować hasło do 1234.</string>
+	<key>SECRET_PHRASE</key>
+	<string>Bezpieczne Wyrażenie</string>
+	<key>LAYOUT_LOCKING_TITLE</key>
+	<string>Blokowanie Wyglądu</string>
+	<key>LAYOUT_LOCKING_FOOTER</key>
+	<string>Włącz żeby zablokować edytowanie wyglądu ekranu początkowego (tryb przesuwania ikon).</string>
+	<key>DISABLE_ON_WIFI_TITLE</key>
+	<string>Wyłącz Applocker dla konkretnej sieci WiFi</string>
+	<key>DISABLE_ON_WIFI_FOOTER</key>
+	<string>Wprowadź nazwę sieci wifi w miejscu któremu ufasz, jak dom, więc uruchamianie aplikacji w domu nie będzie wymagało hasła</string>
+	<key>WIFI_NETWORK</key>
+	<string>Sieć WiFi</string>
+	<key>SET_WIFI</key>
+	<string>Ustaw konkretną sieć WiFi</string>
+	<key>DISABLE_PHOTOS_IN_CAMERA</key>
+	<string>Wyłącz zdjęcia w Aparacie</string>
+	<key>DISABLE_PHOTOS_FOOTER</key>
+	<string>Włącz, aby zablokować dostęp do zdjęć z aplikacji aparatu.
+Przydatne, jeśli chcesz ograniczyć dostęp do zdjęć bez wprowadzania hasła za każdym razem, jak chcesz zrobić zdjęcie.
+Tylko iOS 5. Zrób respring żeby wprowadzić zmiany.</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Instrukcja obsługi</string>
+	<key>USER_GUIDE_FOOTER</key>
+	<string>Jak zresetować hasło?
+Innaczej niż przy użyciu wbudowanego mechanizmu resetowania hasła lub przez usunięcie i ponowne instalowanie AppLocker z Cydii, możesz usunąć ten plik:
+/ Var / mobile / Library / Preferences / com.nnfyrbsnss.applocker.plist
+
+Co to jest "Blokada sesji"?
+Włączenie blokady sesji pozwala szybko przełączać się pomiędzy zablokowanymi aplikacjami bez wprowadzania hasła za każdym razem. Wystarczy wpisać hasło podczas pierwszego uruchomienia zablokowanej aplikacji (lub otworzyć zablokowany folder lub włączyć tryb edycji ikon), po tym AppLocker nie zapyta ponownie o twoje hasło, dopóki nie zablokujesz urządzenia i wtedy twoje aplikacje zostanie zablokowane ponownie.
+
+Co to jest 'Blokowanie urządzenia w razie niepowodzenia'?
+Zablokuj urządzenie w razie błędnie wpisanego hasła. Oczywiście sprzeczne z trybem automatycznego uruchamiania. Blokowanie urządzenia w razie błędnie wpisanego hasła będzie igonorowane jeśli automatyczne uruchamianie jest włączone.
+
+Co to jest 'Automatyczne Uruchamianie'?
+Automatyczne Uruchamianie - jak sama nazwa wskazuje - automatycznie uruchamia aplikację, jak zostanie wprowadzone poprawne hasło. Usuwa przycisk 'Uruchom'
+
+Czemu nie pojawia mi się klawiatura numeryczna?
+Upewnij się, że twoje hasło jest numeryczne. Nawet jedna litera w haśle wyłącza klawiaturę numeryczną w celu umożliwienia wpisania poprawnego hasła.
+
+Jakieś inne pytania? Wyślij mi maila za pomocą Cydii (Applocker > Author).</string>
+</dict>
+</plist>

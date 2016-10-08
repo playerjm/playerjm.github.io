@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>Einstellungen</string>
+	<key>GENERAL_TITLE</key>
+	<string>Allgemein</string>
+	<key>ENABLED</key>
+	<string>Aktiviert</string>
+	<key>APPLICATION_LOCKING_TITLE</key>
+	<string>Programme sperren</string>
+	<key>FOLDER_LOCKING_TITLE</key>
+	<string>Ordner sperren</string>
+	<key>RESET_PASSWORD_PHRASE_TITLE</key>
+	<string>Satz zum Passwort zurücksetzen</string>
+	<key>MORE_TITLE</key>
+	<string>Mehr</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Anleitung</string>
+	<key>APPLOCKER_TOGGLES</key>
+	<string>Applocker Toggles</string>
+	<key>FOLLOW_ME_FOR_UPDATES</key>
+	<string>cjori auf Twitter</string>
+	<key>SUPPORT_IN_CYDIA</key>
+	<string>Hilfe (in Cydia)</string>
+	<key>COPYRIGHT_TEXT</key>
+	<string>2.1 © 2011-2012 Applocker, Ori Kadosh</string>
+	<key>GENERAL_FOOTER</key>
+	<string>Alles sperren/entsperren - Sobald etwas App entsperrt wird, ist alles entsperrt, bis das Gerät wieder gesperrt wird.
+		Numerische Tastatur erfordert ein numerisches Password</string>
+	<key>SESSION_LOCKING</key>
+	<string>Alles sperren/entsperren</string> 
+	<key>LOCK_SETTINGS</key>
+	<string>Sperr-Einstellungen</string>
+	<key>LOCK_DEVICE</key>
+	<string>Bei Fehlschlag Gerät sperren</string>
+	<key>AUTO_LAUNCH</key>
+	<string>Automatischer Start</string>
+	<key>ANIMATION_TYPE</key>
+	<string>Animationsart</string>
+	<key>STANDARD_ANIMATION</key>
+	<string>Standard</string>
+	<key>COOL_ANIMATION</key>
+	<string>Cool</string>
+	<key>NUMERIC_KEYPAD</key>
+	<string>Numerische Tastatur</string>
+	<key>PASSWORD_LABEL</key>
+	<string>Password</string>
+	<key>PLAIN_TEXT_PASSWORD_WARNING</key>
+	<string>Das Password wird in ganzem Text gespeichert.</string>
+	<key>APPLICATIONS_TITLE</key>
+	<string>Programme</string>
+	<key>APPLICATIONS_FOOTER</key>
+	<string>Auswahl umkehren - Ausgewählte Apps entsperren und die anderen sperren.
+Sie können Apps auch im verschieben(wackeln)-Modus sperren, statt dies hier zu tun.</string>
+	<key>INVERT_SELECTION</key>
+	<string>Auswahl umkehren</string>
+	<key>LOCK_FROM_JIGGLE_MODE</key>
+	<string>Auf dem Homescreen sperren (Im Wackel-Modus)</string>												
+	<key>ADVANCED_TITLE</key>
+	<string>Erweiterte Einstellungen</string>
+	<key>DONT_LOCK_FROM</key>
+	<string>Appstart von hier nicht blocken:</string>
+	<key>DONT_LOCK_FROM_DESCRIPTION</key>
+	<string>Das Starten von gesperrten Apps wird an diesen Plätzen NICHT verhindert.
+App Links ist generell überall außer auf dem Homescreen, in der Multitasking Leiste oder von Benachrichtigungen .
+If you disable something and keep post app launch on it will lock that app nevertheless.</string>
+	<key>MULTITASKING_SWITCHER</key>
+	<string>Multitasking Leiste</string>
+	<key>NOTIFICATION_BANNERS</key>
+	<string>App-Benachrichtigungen (Push)</string>
+	<key>POST_APP_LAUNCH</key>
+	<string>App Links</string>
+	<key>FOLDER_LOCKING_FOOTER</key>
+	<string>Geben Sie den *exakten* (individuellen) Namen des Ordners ein, den Sie sperren möchten.
+Wenn Sie den Ordner sperren, sperren Sie nicht die Apps im Ordner, nutzen Sie dafür ´Programme sperren´.</string>
+	<key>FOLDER_NAME</key>
+	<string>Name des Ordners</string>
+	<key>RESET_PASSWORD_PHRASE_FOOTER</key>
+	<string>Wenn Sie das Passwort vergessen haben und ein falsches eingeben, werden Sie nach diesem Satz gefragt um es auf 1234 zurückzusetzen.</string>
+	<key>SECRET_PHRASE</key>
+	<string>Sicherheitssatz</string>
+	<key>LAYOUT_LOCKING_TITLE</key>
+	<string>Apps verschieben verhindern</string>
+	<key>LAYOUT_LOCKING_FOOTER</key>
+	<string>Aktivieren verhindert das ändern des Homescreenlayouts.</string>
+	<key>DISABLE_ON_WIFI_TITLE</key>
+	<string>Alplocker deaktivieren, wenn Sie mit einem bestimmten WiFi-Netzwerk verbunden sind</string>
+	<key>DISABLE_ON_WIFI_FOOTER</key>
+	<string>Geben Sie den Namen eines Netzwerks ein, den sir trauen, wis ihrem Heimnetzwerk, damit das Starten von Programmen zuhause kein Passwort benötigt</string>
+	<key>WIFI_NETWORK</key>
+	<string>WiFi Netzwerk</string>
+	<key>SET_WIFI</key>
+	<string>Momentanes Netzwerk auswählen</string>
+	<key>DISABLE_PHOTOS_IN_CAMERA</key>
+	<string>Fotos in Kamera deaktivieren</string>
+	<key>DISABLE_PHOTOS_FOOTER</key>
+	<string>Deaktiviert den Zugriff auf Fotos aus der Kamera-App.
+Dies ist für den Fall, dass Sie Fotos machen möchten, ohne jedes Mal das Passwort einzugeben.
+Nur für iOS5. Änderungen werden nach einem Respring übernommen.</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>Anleitung</string>
+	<key>USER_GUIDE_FOOTER</key>
+	<string>Wie setze ich mein Passwort zurück?
+Wenn sie Applocker nicht deinstallieren möchten oder die eingebaute Funktion zum Passwort-Reset nutzen, löschen Sie diese Datei:
+/var/mobile/Library/Preferences/com.nnfyrbsnss.applocker.plist
+
+Was ist ´Alles sperren´?
+Alles sperren ermöglicht das schnelle Wechseln von gesperrten Apps, ohne jedes Mal das Passwort neu eizugeben. Sobald Sie das Gerät sperren, sind auch die Apps wieder gesperrt.
+Was ist ´Bei Fehlschlag Gerät sperren'?
+Dies sperrt ihr Gerät, falls das Passwort falsch eingegeben wird.Falls ´Automatisches Starten´ aktiviert ist, wird es deaktiviert, da es nicht zusammen funktionieren kann.
+
+Was ist ´Automatisches Starten'?
+Automatisches Starten startet, wie der Name schon sagt, die App sobald das richtige Passwort eingegeben ist. Entfernt den ´Starten´ Button.
+
+Warum sehe ich keine numerische Tastatur?
+Stellen Sie sicher, dass das Passwort nur aus Zahlen besteht. Nur ein Buchstabe, und sie werden die normale Tastatur bekommen, da Sie sonst das Passwort nicht eingeben könnten.
+
+Weitere Fragen? Senden Sie eine Email via Cydia (Applocker > Author).</string>
+</dict>
+</plist>

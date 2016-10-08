@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_YOUR_PASSWORD</key>
+	<string>Password eingeben</string>
+	<key>APP_IS_LOCKED</key>
+	<string>%@ ist gesperrt</string>
+	<key>APP_IS_UNLOCKED</key>
+	<string>%@ ist entsperrt</string>
+	<key>WRONG_PASSWORD</key>
+	<string>Falsches Passwort</string>
+	<key>WRONG_PHRASE</key>
+	<string>Falscher Sicherheits-Satz</string>
+	<key>DISMISS</key>
+	<string>Abbrechen</string>
+	<key>SECRET_PHRASE_INSTRUCTION</key>
+	<string>Geben Sie ihren Sicherheits-Satz ein, um das Passwort auf 1234 zurückzusetzen</string>
+	<key>RESET</key>
+	<string>Zurücksetzen</string>
+	<key>SECRET_PHRASE</key>
+	<string>Sicherheits-Satz</string>
+	<key>RESET_SUCCESS</key>
+	<string>Passwort wurde erfolgreich auf 1234 zurückgesetzt</string>
+	<key>CANCEL</key>
+	<string>Abbrechen</string>
+	<key>TOGGLE</key>
+	<string>Toggle</string>
+	<key>TOGGLE_APPLOCKER</key>
+	<string>Toggle Applocker</string>
+	<key>PASSWORD</key>
+	<string>Passwort</string>
+	<key>WIFI_SET_SUCCESS</key>
+	<string>Momentanes Netzwerk wurde eingestellt</string>
+	<key>WIFI_SET_SUCCESS_INFO</key>
+	<string>Eventuell müssen Sie die Einstellungen App neu starten, um die Änderungen zu sehen</string>
+	<key>WIFI_NOT_CONNECTED</key>
+	<string>Kein WiFi-Netzwerk vorhanden</string>
+	<key>WIFI_NOT_CONNECTED_INFO</key>
+	<string>Verbinden Sie ihr Gerät mit einem Netzwerk, um es in Alplocker einzustellen</string>
+	<key>LAUNCH</key>
+	<string>Starten</string>
+	<key>ENTER_PASSWORD_TO_UNLOCK</key>
+	<string>Password eingeben zum Entsperren</string>
+	<key>ENTER_PASSWORD_TO_LOCK</key>
+	<string>Passwort eingeben zum Sperren</string>
+	<key>LOCK</key>
+	<string>Sperren</string>
+	<key>UNLOCK</key>
+	<string>Entsperren</string>
+	<key>LAYOUT_LOCKED</key>
+	<string>Homescreenlayout-Ändern wurde gesperrt</string>
+	<key>EDIT_LAYOUT</key>
+	<string>Layout verändern</string>
+	<key>FOLDER_IS_LOCKED</key>
+	<string>Der Ordner %@ ist gesperrt</string>
+	<key>OPEN_FOLDER</key>
+	<string>Ordner öffnen</string>
+</dict>
+</plist>

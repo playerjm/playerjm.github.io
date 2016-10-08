@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>הגדרות</string>
+	<key>GENERAL_TITLE</key>
+	<string>כללי</string>
+	<key>ENABLED</key>
+	<string>אפשר</string>
+	<key>APPLICATION_LOCKING_TITLE</key>
+	<string>נעילת אפליקציות</string>
+	<key>FOLDER_LOCKING_TITLE</key>
+	<string>נעילת תיקיות</string>
+	<key>RESET_PASSWORD_PHRASE_TITLE</key>
+	<string>משפט לאיפוס סיסמה</string>
+	<key>MORE_TITLE</key>
+	<string>עוד</string>
+	<key>USER_GUIDE_TITLE</key>
+	<string>מדריך למשתמש</string>
+	<key>APPLOCKER_TOGGLES</key>
+	<string>מתגים לApplocker</string>
+	<key>FOLLOW_ME_FOR_UPDATES</key>
+	<string>עקוב אחרי בטוויטר לעדכונים</string>
+	<key>SUPPORT_IN_CYDIA</key>
+	<string>תמיכה ‫(‬בסידיה‫)‬</string>
+	<key>COPYRIGHT_TEXT</key>
+	<string>2.1 © 2011-2012 Applocker, פותח ותורגם על ידי אורי קדוש</string>
+
+	<key>GENERAL_FOOTER</key>
+	<string> נעילה חכמה ‫-‬ ברגע שמוכנסת הסיסמה הנכונה לפריט אחד ‫(‬אפליקציה‫,‬ תיקיה או הזזת אייקונים‫)‬ הכל נשאר פתוח עד שהמכשיר ננעל ואז הכל ננעל שוב‫.‬
+מקלדת מספרית דורשת סיסמה שכולה מספרים (אחרת תופיע המקלדת הרגילה)</string>
+	<key>SESSION_LOCKING</key>
+	<string>נעילה חכמה</string> 
+		<!-- Feel free to translate "Session locking" to whatever you think appropriate in your own language, myself I translate it to "Smart locking" in Hebrew -->
+	<key>LOCK_SETTINGS</key>
+	<string>נעל הגדרות</string>
+	<key>LOCK_DEVICE</key>
+	<string>נעילת מכשיר בסיסמה שגויה</string>
+	<key>AUTO_LAUNCH</key>
+	<string>הפעלה אוטומטית</string>
+	<key>ANIMATION_TYPE</key>
+	<string>סוג אנימציה</string>
+	<key>STANDARD_ANIMATION</key>
+	<string>רגילה</string>
+	<key>COOL_ANIMATION</key>
+	<string>מגניבה</string>
+	<key>NUMERIC_KEYPAD</key>
+	<string>מקלדת מספרית</string>
+	<key>PASSWORD_LABEL</key>
+	<string>סיסמה</string>
+	<key>PLAIN_TEXT_PASSWORD_WARNING</key>
+	<string>הסיסמה שלך מאוכסנת בטקסט רגיל ‫(‬ללא הצפנה‫).‬</string>
+
+
+
+	<key>APPLICATIONS_TITLE</key>
+	<string>אפליקציות</string>
+	<key>APPLICATIONS_FOOTER</key>
+	<string>הפוך בחירה‫-‬ אל תנעל אפליקציות שבחרתי ותנעל אפליקציות שבחרתי
+אתה יכול בנוסף להכנס למצב "הזזת אייקונים" ולנעול אפליקציות משם! אין צורך לבוא לכאן כל פעם</string>
+	<key>INVERT_SELECTION</key>
+	<string>הפוך בחירה</string>
+	<key>LOCK_FROM_JIGGLE_MODE</key>
+	<string>נעילה ממצב הזזת אייקונים</string>
+	<key>ADVANCED_TITLE</key>
+	<string>מתקדם</string>
+
+	<key>DONT_LOCK_FROM</key>
+	<string>אל תנעל הפעלת אפליקציות מ‫..‬</string>
+
+	<key>DONT_LOCK_FROM_DESCRIPTION</key>
+	<string>הפעלת אפליקציות לא תהיה נעולה מהמקומות שלעיל
+
+נעילת לאחר הפעלת האפליקציה זה באופן מופשט כל מקום אחר חוץ ממסך הבית, חיפוש ספוטלייט, מולטיטאסקינג סוויטצ'ר והתראות באנרים.
+אם תבטל אחת מהאופציות ותשאיר את נעילה לאחר הפעלת האפליקציה דלוק, האפליקציה תשאר נעולה באמצעות הנעילה לאחר ההפעלה</string>
+	<key>MULTITASKING_SWITCHER</key>
+	<string>מולטיטאסקינג סוויטצ‫'‬ר</string>
+	<key>NOTIFICATION_BANNERS</key>
+	<string>התראות באנרים</string>
+	<key>POST_APP_LAUNCH</key>
+	<string>לאחר הפעלת האפליקציה</string>
+
+	<key>FOLDER_LOCKING_FOOTER</key>
+	<string>הכנס את השם התיקיה בדיוק ‫(‬שים לב לאותיות גדולות‫/‬קטנות ורווחים‫).‬
+נעילת תיקיות לא נועלת את האפליקציות בתוך התיקיה, בשביל זה הכנס לנעילת אפליקציות</string>
+
+	<key>FOLDER_NAME</key>
+	<string>שם התיקיה</string>
+
+	<key>RESET_PASSWORD_PHRASE_FOOTER</key>
+	<string>אם תשכח את הסיסמה שלך אתה תישאל למשפט הזה‫,‬ במידה והוא יוכנס נכון הסיסמה שלך תאופס ל1234‫.‬</string>
+
+	<key>SECRET_PHRASE</key>
+	<string>משפט סודי</string>
+
+	<key>LAYOUT_LOCKING_TITLE</key>
+	<string>נעילת סידור אייקונים</string>
+
+	<key>LAYOUT_LOCKING_FOOTER</key>
+	<string>הפעל בשביל לנעול את סידור האייקונים ‫(‬הזזתם ע‫"‬י לחיצה ארוכה על אייקון‫).‬</string>
+
+	<key>DISABLE_ON_WIFI_TITLE</key>
+	<string>בטל את Applocker על רשת אלחוטית מסוימת</string>
+
+	<key>DISABLE_ON_WIFI_FOOTER</key>
+	<string>הכנס את השם של רשת שאתה סומך עליה‫,‬ כמו הבית שלך‫,‬ במקום זה Applocker יהיה מבוטל‫.‬</string>
+
+	<key>WIFI_NETWORK</key>
+	<string>רשת WiFi</string>
+
+	<key>SET_WIFI</key>
+	<string>הגדר רשת Wifi נוכחית</string>
+
+
+	<key>DISABLE_PHOTOS_IN_CAMERA</key>
+	<string>בטל גישה לתמונות מהמצלמה</string>
+
+	<key>DISABLE_PHOTOS_FOOTER</key>
+	<string>הפעל את זה ע‫"‬מ לבטל את הגישה לתמונות מאפליקציית המצלמה‫.‬ בכדי למנוע גישה לתמונות מבלי להקיש כל פעם את הסיסמה שמפעילים את המצלמה‫.‬
+בצע ריספרינג בשביל להחיל את השינויים. iOS 5 בלבד.</string>
+
+
+	<key>USER_GUIDE_TITLE</key>
+	<string>מדריך למשתמש</string>
+
+
+	<key>USER_GUIDE_FOOTER</key>
+	<string>איך אני מאפס את הסיסמה שלי‫?‬
+חוץ מלהשתמש במנגנון איפוס הסיסמה המובנה או למחוק ולהתקין את Applocker מסידיה אתה יכול למחוק את הקובץ הבא:
+/var/mobile/Library/Preferences/com.nnfyrbsnss.applocker.plist
+
+מה זה "נעילה חכמה"?
+איפשור נעילה חכמה נותן לך להחליף בין אפליקציות מבלי להכניס את הסיסמה שלך בכל פעם. אתה מכניס את הסיסמה בפעם הראשונה שאתה פותח אפליקציה נעולה (או תיקיה נעולה או הזזת האייקונים), אחרי זה Applocker לא יבקש את הסיסמה שלך שוב עד שתנעל את המכשיר שלך (באמצעות הכפתור power למעלה) ואז כל האפליקציות שלך ננעלות שוב!
+
+מה זה "נעל מכשיר" בהגדרות הכלליות של Applocker?
+נעל מכשיר ינעל את המכשיר שלך במידה והסיסמה הלא נכונה מוקשת. מטבע הדברים מתנגש עם הפעלה אוטומטית. Applocker יתעלם מ"נעל מכשיר" ברגע שהפעלה אוטומטית מודלקת.
+
+מה זה הפעלה אוטומטית?
+הפעלה אוטומטית תפעיל את האפליקציות ותפתח את התיקיות שלך באופן אוטומטי ברגע שהסיסמה הנכונה מוכנסת.
+
+למה לא מופיעה לי המקלדת המספרית?
+אנא וודא שהסיסמה שלך עשויה כולה מספרים - אחרת תופיע לך המקלדת הרגילה.
+
+
+עוד שאלות? שלח לי אימייל מסידיה.
+
+</string>
+
+
+
+</dict>
+
+</plist>

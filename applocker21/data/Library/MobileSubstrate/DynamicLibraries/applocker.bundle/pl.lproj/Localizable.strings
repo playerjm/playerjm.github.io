@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_YOUR_PASSWORD</key>
+	<string>Wprowadź hasło</string>
+	<key>APP_IS_LOCKED</key>
+	<string>%@ - aplikacja zablokowana</string>
+	<key>APP_IS_UNLOCKED</key>
+	<string>%@ - aplikacja odblokowana</string>
+	<key>WRONG_PASSWORD</key>
+	<string>Złe hasło</string>
+	<key>WRONG_PHRASE</key>
+	<string>Błędnie wpisane bezpieczne wyrażenie</string>
+	<key>DISMISS</key>
+	<string>Odrzuć</string>
+	<key>SECRET_PHRASE_INSTRUCTION</key>
+	<string>Wpisz bezpieczne wyrażenie żeby zresetować hasło do 1234</string>
+	<key>RESET</key>
+	<string>Reset</string>
+	<key>SECRET_PHRASE</key>
+	<string>Bezpieczne wyrażenie</string>
+	<key>RESET_SUCCESS</key>
+	<string>Udało się zmienić hasło na 1234</string>
+	<key>CANCEL</key>
+	<string>Anuluj</string>
+	<key>TOGGLE</key>
+	<string>Przełącznik</string>
+	<key>TOGGLE_APPLOCKER</key>
+	<string>Przełącznik Applocker</string>
+	<key>PASSWORD</key>
+	<string>Hasło</string>
+	<key>WIFI_SET_SUCCESS</key>
+	<string>Aktualna sieć WiFi została ustawiona</string>
+	<key>WIFI_SET_SUCCESS_INFO</key>
+	<string>Prawdopodobnie trzeba zrestartować ustawienia żeby zastosować zmiany</string>
+	<key>WIFI_NOT_CONNECTED</key>
+	<string>Brak połączenia WiFi</string>
+	<key>WIFI_NOT_CONNECTED_INFO</key>
+	<string>Należy podłączyć do sieci WiFi, aby ustawić go w Applocker</string>
+	<key>LAUNCH</key>
+	<string>Uruchom</string>
+	<key>ENTER_PASSWORD_TO_UNLOCK</key>
+	<string>Wprowadź hasło, aby odblokować</string>
+	<key>ENTER_PASSWORD_TO_LOCK</key>
+	<string>Wprowadź hasło, aby zablokować</string>
+	<key>LOCK</key>
+	<string>Zablokuj</string>
+	<key>UNLOCK</key>
+	<string>Odblokuj</string>
+	<key>LAYOUT_LOCKED</key>
+	<string>Zmiana wyglądu zablokowana</string>
+	<key>EDIT_LAYOUT</key>
+	<string>Zmiana wyglądu</string>
+	<key>FOLDER_IS_LOCKED</key>
+	<string>Folder %@ jest zablokowany</string>
+	<key>OPEN_FOLDER</key>
+	<string>Otwórz Folder</string>
+</dict>
+</plist>
